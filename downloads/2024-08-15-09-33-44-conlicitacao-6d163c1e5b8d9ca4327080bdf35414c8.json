@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "423494a9769c1fa42225caf6698b678c",
+        "boletim_id": 109941133,
+        "id_origem": 16876250,
+        "numero_pregao": "PE/90008/2024",
+        "objeto": "* Licitação Eletrônica * - Aquisição de Materiais Permanentes destinados à modernização e aparelhamento desta Escola de Administração Penitenciária * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Escola de Administração Penitenciária Dr. Luiz C. Wolfmann",
+        "orgao_endereco": "Av. General Ataliba Leonel, 656 - Carandiru",
+        "orgao_codigo": "380103-BEC",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - PULPITO PORTATIL\r\nPULPITO PORTATIL, MATERIAL ACRÍLICO, ESPESSURA DO TAMPO 10 MM, ALTURA 120 CM, PROFUNDIDADE 40 CM, LARGURA 50 CM, CARACTERíSTICAS ADICIONAIS INTEIRIÇO/1PRATELEIRA/PÉS DE APOIO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2\r\nUnidade de fornecimento: Unidade\r\n----------\r\n2 - SWITCH\r\nSWITCH, QUANTIDADE PORTAS 24 UN, TIPO PORTAS GIGABIT ETHERNET, VELOCIDADEPORTA 24 PORTAS ATÉ 5GB, ALIMENTAÇÃO 100 A 240 VCA, CARACTERÍSTICAS ADICIONAIS4 PORTAS ATÉ 25GB, APLICAÇÃO TRANSMISSÃO DE ÁUDIO E VÍDEO, TIPO PADRÃO RACK19´\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2\r\nUnidade de fornecimento: Unidade\r\n----------\r\n3 - GRAVADOR E REPRODUTOR DE SOM\r\nGRAVADOR E REPRODUTOR DE SOM, TIPO PORTÁTIL, MEIO GRAVAÇÃO CARTÃO DE MEMÓRIA, FONTE ALIMENTAÇÃO PILHA OU BATERIA RECARREGÁVEL, CARACTERÍSTICAS ADICIONAISDISPLAY LCD/EXTENSãO WAV E MP3/PORTA USB, FUNÇÕES PRÉ-GRAVAÇÃO/SOFTWARE PARAEDIÇÃO DE ÁUDIO, TIPO SAÍDA AUTOFALANTE EMBUTIDOS BUILT-IN\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 3\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero_habitantes": 11451999,
+        "anexos": [
+            {
+                "nome": "edital14_2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-38010305900082024000-d1d28e.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-edital14_2024-4ae1ac.pdf",
+                "hash_content": "fe6d6e16a7c79c162e2b5d7da00a5fa3",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-edital14_2024-4ae1ac.json"
+            },
+            {
+                "nome": "relacaoitens38010305900082024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-38010305900082024000-d1d28e.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-relacaoitens38010305900082024000-0e9363.pdf",
+                "hash_content": "0171ea6c63f21707d63a0e655b7bcd99",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-423494a9769c1fa42225caf6698b678c-relacaoitens38010305900082024000-0e9363.json"
+            }
+        ],
+        "hash_content": "6d163c1e5b8d9ca4327080bdf35414c8"
+    }
+}

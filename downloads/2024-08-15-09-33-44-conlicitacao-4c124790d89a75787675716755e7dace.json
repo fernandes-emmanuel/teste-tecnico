@@ -1,0 +1,74 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "a156f5888ec21305b5ba45a6cf131dd1",
+        "boletim_id": 109941133,
+        "id_origem": 16875587,
+        "numero_pregao": "DL/90108/2024",
+        "objeto": "* Licitação Eletrônica * Aquisição de material de expediente/escritório para este Batalhão. * https://pncp.gov.br *",
+        "numero_processo": "63430002756202429",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-19",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "DL",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando da Marinha - Batalhão de Operações Especiais de Fuzileiros Navais",
+        "orgao_endereco": "Av. Brasil 44.878 - Campo Grande",
+        "orgao_codigo": "795400",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "1 - Cadeado\r\n2 - Cadeado\r\n3 - Brinde\r\n4 - Pasta Arquivo\r\n5 - Pasta Arquivo\r\n6 - Perfurador Papel\r\n7 - Bloco Recado\r\n8 - Pasta Arquivo\r\n9 - Pasta Arquivo\r\n10 - Fita Adesiva\r\n11 - Clipe\r\n"
+        ],
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "numero_habitantes": 6211223,
+        "anexos": [
+            {
+                "nome": "anexo_i_-_formalizao_de_demanda.odt",
+                "formato": "odt",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-anexo_i_-_formalizao_de_demanda-0f8fd7.odt",
+                "hash_content": "79e339cea7af372d074e5778bdf1a52d"
+            },
+            {
+                "nome": "anexo_ii_-_ato_de_autorizao.odt",
+                "formato": "odt",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-anexo_ii_-_ato_de_autorizao-938821.odt",
+                "hash_content": "56f7f4fb7ba2ff190efa0ce4cfa72c06"
+            },
+            {
+                "nome": "anexo_iii_-_termo_de_referncia.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-anexo_iii_-_termo_de_referncia-9c1006.docx",
+                "hash_content": "7ab49c08c2fe424c22f8c3e330bab0ec"
+            },
+            {
+                "nome": "anexo_iv_-_aviso_de_dispensa_eletrnica.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-anexo_iv_-_aviso_de_dispensa_eletrnica-48535d.docx",
+                "hash_content": "8025923dfadb9a5ed641cf4ef75402fd"
+            },
+            {
+                "nome": "anexo_v_-_mapa_comparativo_de_preos.ods",
+                "formato": "ods",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-anexo_v_-_mapa_comparativo_de_preos-751010.ods",
+                "hash_content": "91d222b7b84f4b4b2c9a281fb343f464"
+            },
+            {
+                "nome": "dispensa_eletrnica_90108-2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-edital-807ff8.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-a156f5888ec21305b5ba45a6cf131dd1-dispensa_eletrnica_90108-2024-192631.pdf",
+                "hash_content": "6704ce9e3150df00ee196f462d9750b9"
+            }
+        ],
+        "hash_content": "4c124790d89a75787675716755e7dace"
+    }
+}

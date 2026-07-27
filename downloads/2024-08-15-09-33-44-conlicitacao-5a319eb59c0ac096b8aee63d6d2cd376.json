@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "ffbed9180c39ba730fedc90b56d0f9fb",
+        "boletim_id": 109941133,
+        "id_origem": 16875853,
+        "numero_pregao": "PE/90002/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada na prestação dos serviços de distribuição e manutenção de fornecimento de link de internet, fibra óptica, com IP fixo, com velocidade mínima de 500 megas download e 500 megas de upload, atendendo assim as necessidades do Conselho Regional de Administração do Tocantins - CRA/TO. Com fornecimento de equipamentos, materiais e serviços necessários à execução do serviço e suporte técnico para manutenção. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Conselho Regional de Administração do Tocantins",
+        "orgao_endereco": "602 Norte Av. Teotônio Segurado Cj 01 Lt 06",
+        "orgao_codigo": "926373",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Acesso a Internet Via Cabo\r\nAcesso a Internet Via Cabo\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: MEGA BITS/SEGUNDO\r\n"
+        ],
+        "cidade": "Palmas",
+        "estado": "TO",
+        "numero_habitantes": 302692,
+        "anexos": [
+            {
+                "nome": "sei_2777869_edital_002_2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-92637305900022024000-3f8b37.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-sei_2777869_edital_002_2024-d790b3.pdf",
+                "hash_content": "c60ca3bdb9102d14f75fdf10e1905aab",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-sei_2777869_edital_002_2024-d790b3.json"
+            },
+            {
+                "nome": "relacaoitens92637305900022024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-92637305900022024000-3f8b37.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-relacaoitens92637305900022024000-1b91b7.pdf",
+                "hash_content": "23f821c6c2e03f318eb962f2e1ae42d2",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ffbed9180c39ba730fedc90b56d0f9fb-relacaoitens92637305900022024000-1b91b7.json"
+            }
+        ],
+        "hash_content": "5a319eb59c0ac096b8aee63d6d2cd376"
+    }
+}

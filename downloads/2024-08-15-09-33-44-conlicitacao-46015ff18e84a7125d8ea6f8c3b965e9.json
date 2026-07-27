@@ -1,0 +1,40 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "52e76beedad12182a43b825aec4c529c",
+        "boletim_id": 109941133,
+        "id_origem": 16793034,
+        "numero_pregao": "PE/6/2024",
+        "objeto": "* Licitação Eletrônica * AQUISICAO DE MATERIAL DE CONSUMO, SENDO MATERIAIS DE PROCESSAMENTO DE DADOS E INFORMÁTICA, EQUIPAMENTOS E MATERIAL PERMANENTE, INFORMÁTICA, MOBILIARIOS, UTENSILIOS, AR CONDICIONADO, EQUIPAMENTOS DIVERSOS, DENTRE OUTROS PARA ATENDER AS NECESSIDADES DAS SECRETARIAS, ÓRGÃOS E DEPARTAMENTOS DO PODER EXECUTIVO DA ADMINISTRAÇÃO DIRETA E INDIRETA DO MUNICÍPIO PARA O EXERCÍCIO DE 2024/2025 DURANTE A VIGÊNCIA DO REGISTRO DE PREÇOS * https://licitanet.com.br *",
+        "numero_processo": "369",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-27",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Castanheiras",
+        "orgao_endereco": "Avenida Jacarandá, 100",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Castanheiras",
+        "estado": "RO",
+        "numero_habitantes": 3233,
+        "anexos": [
+            {
+                "nome": "edital_n_006_permanete_ok.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-52e76beedad12182a43b825aec4c529c-edital-50213a.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-52e76beedad12182a43b825aec4c529c-edital_n_006_permanete_ok-3bf99e.pdf",
+                "hash_content": "272444a894653282cff0e436ffbb9d8d",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-52e76beedad12182a43b825aec4c529c-edital_n_006_permanete_ok-3bf99e.json"
+            }
+        ],
+        "hash_content": "46015ff18e84a7125d8ea6f8c3b965e9"
+    }
+}

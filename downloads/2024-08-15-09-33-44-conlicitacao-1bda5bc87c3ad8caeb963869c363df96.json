@@ -1,0 +1,40 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "815b3a4e14aa1bf6893e4db60cff4dd9",
+        "boletim_id": 109941133,
+        "id_origem": 16876927,
+        "numero_pregao": "DL/2144/2024",
+        "objeto": "TRAVA DE SEGURANÇA PARA NOTEBOOK https://portaldecompras.sfiec.org.br/Default.aspx",
+        "numero_processo": "CD021442024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-16",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "DL",
+        "orgao": "FIEC - Federação das Industrias do Estado do Ceará",
+        "orgao_endereco": "Av. Barão de Studart, 1980, 1º andar",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "MC0800538-TRAVA SEGURANCA PARA NOTEBOOK\r\n"
+        ],
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "numero_habitantes": 2428708,
+        "anexos": [
+            {
+                "nome": "edital_wbc202408081727175700.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-815b3a4e14aa1bf6893e4db60cff4dd9-edital-3f9eea.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-815b3a4e14aa1bf6893e4db60cff4dd9-edital_wbc202408081727175700-e9777e.pdf",
+                "hash_content": "83ac31b2edbc6bc381fbba3e15947702",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-815b3a4e14aa1bf6893e4db60cff4dd9-edital_wbc202408081727175700-e9777e.json"
+            }
+        ],
+        "hash_content": "1bda5bc87c3ad8caeb963869c363df96"
+    }
+}

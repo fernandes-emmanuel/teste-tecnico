@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "6463343bbf1e745912229e02b58005f5",
+        "boletim_id": 109941133,
+        "id_origem": 16828111,
+        "numero_pregao": "PE/90007/2024",
+        "objeto": "* Licitação Eletrônica * - Registro de Preços para eventual contratação de serviço continuado sem dedicação de mão de obra, de empresa para prestação de serviços técnicos especializados de pesquisa e aconselhamento imparcial em tecnologia da informação e comunicação TIC, conforme condições e exigências estabelecidas no Termo de Referência. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-15",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "PRESIDÊNCIA DA REPÚBLICA - Advocacia Geral da União - Diretoria Geral de Administração - Diretoria de Logística e Gestão Documental",
+        "orgao_endereco": "Quadra 6, Lote 800",
+        "orgao_codigo": "110792",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\nLicença de Atuação Estratégica Corporativa - Subscrição\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n2 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\nLicença de Atuação Estratégica especializada por domínio\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 3\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n3 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\nLicença de Atuação Estratégica Tático Gerencial\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 5\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n4 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\nLicença de Atuação Técnico Operacional para até 5 usuários\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\n2 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\n3 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC\r\n4 - Serviços de Consultoria em Tecnologia da Informação e Comunicação TIC"
+        ],
+        "cidade": "Brasília",
+        "estado": "DF",
+        "numero_habitantes": 2817381,
+        "anexos": [],
+        "hash_content": "05b622c9be0a7bc7320da494adee4385"
+    }
+}

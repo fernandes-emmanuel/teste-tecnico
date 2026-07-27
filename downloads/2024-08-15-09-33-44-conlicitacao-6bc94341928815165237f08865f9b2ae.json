@@ -1,0 +1,89 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "68b24b1eb7df969704a394ffbc532fde",
+        "boletim_id": 109941133,
+        "id_origem": 16875872,
+        "numero_pregao": "PE/90018/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada na prestação de serviços de operação da programação, empacotamento, produção de chamadas e planejamento e divulgação do canal internacional e seus programas nas redes sociais. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "PRESIDÊNCIA DA REPÚBLICA - Secretaria de Comunicação Social da Presidencia da República - Empresa Brasil de Comunicação",
+        "orgao_endereco": "SHC Norte, CR 502, Bloco ´B´, nº 80 subsolo - Asa Norte",
+        "orgao_codigo": "115406",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Prestação de Serviços de Operação Sistema /Equipamentos/Máquinas\r\nPrestação de serviços de operação sistema /equipamentos/máquinasContratação de empresa especializada na prestação de serviços de operação da programação, empacotamento, produção de chamadas e planejamento e divulgação do canal internacional e seus programas nas redes sociais.\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "Brasília",
+        "estado": "DF",
+        "numero_habitantes": 2817381,
+        "anexos": [
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-2_etp_230224_-_servios_canal_internacional_(v2).docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-2_etp_230224_-_servios_canal_internacional_(v2)-51b016.docx",
+                "hash_content": "54d302002d95a12bc06a69333857832d"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-anexo_i_-_termo_de_referncia.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-anexo_i_-_termo_de_referncia-c61a7a.docx",
+                "hash_content": "3ce7758778e91087ea09bcc96ec66d98"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-anexo_ii_-__minuta_de_contrato.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-anexo_ii_-__minuta_de_contrato-fa54b4.docx",
+                "hash_content": "9da84c3360943c2441a302067cb26ee4"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-anexo_iii_-_participao_de_empresa_estrangeira.doc",
+                "formato": "doc",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-anexo_iii_-_participao_de_empresa_estrangeira-b15e6f.doc",
+                "hash_content": "3f3dceb3817a2da8bb33beaa181baae9"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-anexo_iv_-_relao_de_contratos_firmados.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-anexo_iv_-_relao_de_contratos_firmados-0e045c.docx",
+                "hash_content": "e28675696e1e16efa36a7e66d9843a06"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-anexo_v_-_termo_de_conciliao_judicial.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-anexo_v_-_termo_de_conciliao_judicial-51de9a.docx",
+                "hash_content": "61030517fd2a9edb7e08463c82bd0941"
+            },
+            {
+                "nome": "prego_900182024_-_servios_nas_reas_de_operao-edital_-_servios_de_operao.doc",
+                "formato": "doc",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-prego_900182024_-_servios_nas_reas_de_operao-edital_-_servios_de_operao-a6ed40.doc",
+                "hash_content": "d1f895a442643efc9a08e27ef8a1b321"
+            },
+            {
+                "nome": "relacaoitens11540605900182024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-11540605900182024000-bc49b7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-relacaoitens11540605900182024000-992ea4.pdf",
+                "hash_content": "b2285c85a359a3d7d034c24bde2f23cf",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-68b24b1eb7df969704a394ffbc532fde-relacaoitens11540605900182024000-992ea4.json"
+            }
+        ],
+        "hash_content": "6bc94341928815165237f08865f9b2ae"
+    }
+}

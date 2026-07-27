@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "43aa342e86c1109aa4d42ea998bedde9",
+        "boletim_id": 109941133,
+        "id_origem": 16805190,
+        "numero_pregao": "PE/29/2024",
+        "objeto": "* Licitação Eletrônica * Registro de Preços para futura e eventual contratação de empresa especializada para execução do serviço de implantação e acompanhamento, do projeto de educação criativa, através da disponibilização de materiais, equipamentos e softwares, a fim de atender as necessidades da secretaria de educação deste município. * https://bnccompras.com *",
+        "numero_processo": "05130003/2024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Junqueiro",
+        "orgao_endereco": "Rua João de Deus, 76 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "Registro de Preços para futura e eventual contratação de empresa especializada para execução do serviço de implantação e acompanhamento, do projeto de educação criativa, através da disponibilização de materiais, equipamentos e softwares, a fim de atender as necessidades da secretaria de educação deste município"
+        ],
+        "cidade": "Junqueiro",
+        "estado": "AL",
+        "numero_habitantes": 23907,
+        "anexos": [],
+        "hash_content": "102103c4d4453ac55ff9679bc9b4bfc8"
+    }
+}

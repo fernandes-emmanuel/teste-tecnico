@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "4318d6fb18a951fd9ba2cf1c95b7d3fb",
+        "boletim_id": 109941133,
+        "id_origem": 16769774,
+        "numero_pregao": "PE/90008/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de serviços de telefonia para atender as necessidades da Superintendência Regional de Administração no Estado do Acre SRA/AC, Superintendência do Patrimônio da União no Estado do Acre SPU/AC, Procuradoria da Fazenda Nacional no Acre PFN/AC e Superintendência Regional do Trabalho no Acre/ - SRTB/AC. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-15",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Superintendência Regional de Administração do Ministério da Economia no Acre",
+        "orgao_endereco": "Rua Benjamin Constant, nº 1088 - Cadeia Velha",
+        "orgao_codigo": "170344",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\nServiços de outsourcing de Plataforma PABX em Nuvem,licença de ramais IP, fornecimento de aparelhos IP em regimede comodato, entroncamento E1 ou equivalente, link de internetpara acesso à plataforma em nuvem, assinatura DDR, 01equipamento Gateway, ligações locais e nacionais ilimitadas,switches, roteadores etc, bem como serviço deinstalação/ativação do sistema com fornecimento de 1 link deinternet a ser instalado na Rua Benjamin Constant, 1088, BairroCadeia Velha - Rio Branco /AC, Cep: 69.900-064. Telefonia VOIP na SRA/AC RBR: 25 linhas/ramais.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n2 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\nServiços de outsourcing de Plataforma PABX em Nuvem,licença de ramais IP, fornecimento de aparelhos IP em regimede comodato, entroncamento E1 ou equivalente, link de internetpara acesso à plataforma em nuvem, assinatura DDR, 01equipamento Gateway, ligações locais e nacionais ilimitadas,switches, roteadores etc, bem como serviço deinstalação/ativação do sistema com fornecimento de 2 links deinternet, sendo instalado 1 link na Rua Marechal Deodoro, 257,Centro - Rio Branco/AC, Cep: 69.900-066 e 1 link na Rua RegoBarros, 168, Centro - Cruzeiro do Sul, Cep: 69.980-970 .Telefonia VOIP na SRTB/AC RBR/CZS: 35 linhas/ramaissendo 33 Ramais em Rio Branco/AC e 2 Ramais emCruzeiro do Sul.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n3 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\nServiços de outsourcing de Plataforma PABX em Nuvem,licença de ramais IP, fornecimento de aparelhos IP em regimede comodato, entroncamento E1 ou equivalente, assinaturaDDR, 01 equipamento Gateway, ligações locais e nacionaisilimitadas, switches, roteadores etc., bem como serviço deinstalação/ativação do sistema a ser instalado na Rua MarechalDeodoro, nº 340, 6º Andar - Centro, Rio Branco-AC, CEP69900-210. Telefonia VOIP na PFN/AC RBR: 17linhas/ramais.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n4 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\nServiços de outsourcing de Plataforma PABX em Nuvem,licença de ramais IP, fornecimento de aparelhos IP em regimede comodato, entroncamento E1 ou equivalente, link de internetpara acesso à plataforma em nuvem, assinatura DDR, 01equipamento Gateway, ligações locais e nacionais ilimitadas,switches, roteadores etc., bem como serviço deinstalação/ativação do sistema com fornecimento de 1 link deinternet a ser instalado na Rua Amazonas, 115, Bairro Ceramica- Rio Branco /AC, Cep: 69.905-074 Telefonia VOIPna SPU/AC RBR: 25 linhas/ramais\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\n2 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\n3 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC\r\n4 - Taxa de Instalacao/Habilitação de Serviço de Telefonia STFC"
+        ],
+        "cidade": "Rio Branco",
+        "estado": "AC",
+        "numero_habitantes": 364756,
+        "anexos": [],
+        "hash_content": "450a9df6acedbf17c94c7b912afe2fd3"
+    }
+}

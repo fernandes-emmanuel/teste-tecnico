@@ -1,0 +1,55 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "0c84d025d244237c2414a9d41095a09e",
+        "boletim_id": 109941133,
+        "id_origem": 16802239,
+        "numero_pregao": "PE/11/2024",
+        "objeto": "* Licitação Eletrônica * CONTRATACAO DE EMPRESA PARA PRESTACAO DE SERVICOS EM LOCACAO DE VIDEOMONITORAMENTO ELETRONICO 24H COM ENVIO DE VIATURA SOMENTE COM SINISTRO CONFIRMADO PARA TRATATIVAS E SUBSTITUICOES E ATUALIZACOES DO SISTEMA EM PREDIO PUBLICOS E CONVENIADOS 7 DIAS POR SEMANA INCLUINDO ASS TEC INSTAL COM MATERIAL DOS EQUIP NAS QTDES QUALID E CONDICOES TEC DESCRITAS NO ANEXO 1 DO TR DAS SEC MUNICIPAIS DA PREFEITURA DE MATEUS LEME * https://licitar.digital *",
+        "numero_processo": "163/2024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-27",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Mateus Leme",
+        "orgao_endereco": "Rua Pereira Guimaraes, 08 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "Lote: 1 - \r\nDescrição: CONTRATACAO DE EMPRESA PARA PRESTACAO DE SERVICOS EM LOCACAO DE VIDEOMONITORAMENTO ELETRONICO 24H COM ENVIO DE VIATURA SOMENTE COM SINISTRO CONFIRMADO PARA TRATATIVAS E SUBSTITUICOES E ATUALIZACOES DO SISTEMA EM PREDIO PUBLICOS E CONVENIADOS 7 DIAS POR SEMANA INCLUINDO ASS TEC INSTAL COM MATERIAL DOS EQUIP NAS QTDES QUALID E CONDICOES TEC DESCRITAS NO ANEXO 1 DO TR DAS SEC MUNICIPAIS DA PREFEITURA DE MATEUS LEME - \r\n"
+        ],
+        "cidade": "Mateus Leme",
+        "estado": "MG",
+        "numero_habitantes": 37841,
+        "anexos": [
+            {
+                "nome": "anexo_1.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-edital-41ec96.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-anexo_1-312958.pdf",
+                "hash_content": "d41d8cd98f00b204e9800998ecf8427e"
+            },
+            {
+                "nome": "anexo_comp_1.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-edital-41ec96.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-anexo_comp_1-9d152b.pdf",
+                "hash_content": "3e84813e5f3bb3b7f127c858d144935a",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-anexo_comp_1-9d152b.json"
+            },
+            {
+                "nome": "anexo_comp_2.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-edital-41ec96.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-anexo_comp_2-73efb9.pdf",
+                "hash_content": "0cce45e40e8ddc6425d293082989fd66",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-0c84d025d244237c2414a9d41095a09e-anexo_comp_2-73efb9.json"
+            }
+        ],
+        "hash_content": "6af36fbafba68bc899288ab4f3d6105e"
+    }
+}

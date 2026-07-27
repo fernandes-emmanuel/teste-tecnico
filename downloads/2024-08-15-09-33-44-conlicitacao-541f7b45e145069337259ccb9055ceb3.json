@@ -1,0 +1,47 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "7ccd3e9256e51eebd76d31f93ed5897b",
+        "boletim_id": 109941133,
+        "id_origem": 16869189,
+        "numero_pregao": "PE/5/2024",
+        "objeto": "* Licitação eletrônica * Registro de Preços pelo prazo de 12doze meses visando eventual contratação de pessoa s jurídicas para prestação de serviços de impressos gráficos em geral, de interesse do Município de Açailândia - SAAE Serviço Autônomo de Água e Esgoto",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-09-03",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Açailândia",
+        "orgao_endereco": "Rua 26 Quadra 02, Lote 07, Brasil Novo",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            "www.acailandia.ma.gov.br"
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Açailândia",
+        "estado": "MA",
+        "numero_habitantes": 106550,
+        "anexos": [
+            {
+                "nome": "aviso_pe-005-2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-7ccd3e9256e51eebd76d31f93ed5897b-edital-a81705.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-7ccd3e9256e51eebd76d31f93ed5897b-aviso_pe-005-2024-1580bd.pdf",
+                "hash_content": "f6746571162f9c3eb1fe376dfb03c9f0"
+            },
+            {
+                "nome": "edital_pe-005-2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-7ccd3e9256e51eebd76d31f93ed5897b-edital-a81705.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-7ccd3e9256e51eebd76d31f93ed5897b-edital_pe-005-2024-dc61b7.pdf",
+                "hash_content": "1c5030b4ae382d0631447f3ada80e6f1",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-7ccd3e9256e51eebd76d31f93ed5897b-edital_pe-005-2024-dc61b7.json"
+            }
+        ],
+        "hash_content": "541f7b45e145069337259ccb9055ceb3"
+    }
+}

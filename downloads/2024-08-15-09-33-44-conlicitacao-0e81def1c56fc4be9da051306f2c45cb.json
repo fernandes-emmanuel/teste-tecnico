@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "8c1b318ad20f60737d710db345fdb41c",
+        "boletim_id": 109941133,
+        "id_origem": 16873131,
+        "numero_pregao": "PR/54/2024",
+        "objeto": "Aquisição de materiais de informática,eletrônicos e equipamentos diversos para uso das Secretarias Municipais, ",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PR",
+        "orgao": "Prefeitura Municipal de Quatro Irmãos",
+        "orgao_endereco": "Rua Isidoro Eisenberg, s/n",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Quatro Irmãos",
+        "estado": "RS",
+        "numero_habitantes": 1552,
+        "anexos": [],
+        "hash_content": "0e81def1c56fc4be9da051306f2c45cb"
+    }
+}

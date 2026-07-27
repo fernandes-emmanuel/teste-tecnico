@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "4d637b906a65819e53d66a4cec258f87",
+        "boletim_id": 109941133,
+        "id_origem": 16876214,
+        "numero_pregao": "PE/90100/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de pessoa jurídica para prestação de serviço de locação de impressoras monocromática e colorida para atender as demandas da Câmara Municipal de Itabirito * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Câmara Municipal de Itabirito",
+        "orgao_endereco": "Av. Queiroz Júnior, 639, Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Outsourcing deImpressão - Páginas A4 - Monocromático - Dentro da Franquia sem Papel\r\nLocação de 09 nove impressoras Modelo A.Impressora laser multifuncional monocromática, com alta velocidade, performance e qualidade\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: PÁGINAS MÊS\r\n----------\r\n2 - Outsourcing deImpressão - Páginas A4 - Monocromático - Dentro da Franquia sem Papel\r\nLocação de 01 uma impressora Modelo B.Impressora laser multifuncional color, com alta velocidade, performance e qualidade\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 12\r\nUnidade de fornecimento: PÁGINAS MÊS\r\n"
+        ],
+        "cidade": "Itabirito",
+        "estado": "MG",
+        "numero_habitantes": 53365,
+        "anexos": [
+            {
+                "nome": "edital.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-93011605901002024000-ab68b6.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-edital-7695e9.pdf",
+                "hash_content": "bce25a64dd3ba10428cb47c6a390ac5a",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-edital-7695e9.json"
+            },
+            {
+                "nome": "relacaoitens93011605901002024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-93011605901002024000-ab68b6.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-relacaoitens93011605901002024000-9b67c0.pdf",
+                "hash_content": "05e54a445f02563e3ed3c51a5e7f8ee4",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-4d637b906a65819e53d66a4cec258f87-relacaoitens93011605901002024000-9b67c0.json"
+            }
+        ],
+        "hash_content": "389539bc919572ba8fac88a625970cb7"
+    }
+}

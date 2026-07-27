@@ -1,0 +1,39 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "93b2e56aea12871eed0de3aaf91aad12",
+        "boletim_id": 109941133,
+        "id_origem": 16873659,
+        "numero_pregao": "PE/8/2024",
+        "objeto": "* Licitação eletrônica * : Registro de preços para a aquisição de mobiliários e equipamentos, visando atender as necessidades da Secretaria Municipal de Saúde",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-27",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Rio Paranaíba",
+        "orgao_endereco": "Rua Capitão Franklin de Castro, 1065 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Rio Paranaíba",
+        "estado": "MG",
+        "numero_habitantes": 14532,
+        "anexos": [
+            {
+                "nome": "aquisio_de_moveis_e_equipamentos.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-93b2e56aea12871eed0de3aaf91aad12-edital-b455fa.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-93b2e56aea12871eed0de3aaf91aad12-aquisio_de_moveis_e_equipamentos-2cedb4.docx",
+                "hash_content": "b2d10d5cebbc3b527b63a4de8898ecfa"
+            }
+        ],
+        "hash_content": "16685c0644669a93844d2bba4b6cf17e"
+    }
+}

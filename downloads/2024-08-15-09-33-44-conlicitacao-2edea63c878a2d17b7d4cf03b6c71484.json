@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "ce9313fa5179a43215b47b1e2c660f44",
+        "boletim_id": 109941133,
+        "id_origem": 16876297,
+        "numero_pregao": "PE/90092/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada visando a prestação de serviços de licenciamento de uso temporário e mensal, por prazo determinado, de um sistema integrado de gestão em saúde pública, para atendimento à diversas áreas da Secretaria de Saúde, desenvolvido para funcionamento em ambiente web e hospedagem em nuvem, com conversão e migração das bases de dados existentes, em conformidade com a LGPD lei geral de proteção de dados, incluindo os serviços de conf * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Mogi Mirim",
+        "orgao_endereco": "Rua Doutor José Alves, nº129 - Centro",
+        "orgao_codigo": "986717",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Desenvolvimento / Geração / Implantação - Código Barra\r\nIMPLANTAÇÃO DE SOFTWARE E TREINAMENTO\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 6\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n2 - Licenciamento de Outros Direitos Permanentes sobre Programasde Computador\r\nLICENÇA DE USO DE SOFTWARE - CONFORME TERMO DE REFERENCIA\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 60\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n3 - Serviços de Instalação, Transição e Configuração / Parametrização de Software\r\nSUPORTE TÉCNICO PARA O SOFTWARE DE DESENVOLVIMENTO DE SISTEMAS SUPORTE TÉCNICO PARA OSOFTWARE DE DESENVOLVIMENTO DE SISTEMAS\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 60\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n4 - Desenvolvimento e/ou evolução de software- Outras linguagens\r\nHORA TÉCNICA\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2000\r\nUnidade de fornecimento: HORA SERVIÇO TECNICO\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - Desenvolvimento / Geração / Implantação - Código Barra\r\n2 - Licenciamento de Outros Direitos Permanentes sobre Programasde Computador\r\n3 - Serviços de Instalação, Transição e Configuração / Parametrização de Software\r\n4 - Desenvolvimento e/ou evolução de software- Outras linguagens"
+        ],
+        "cidade": "Mogi Mirim",
+        "estado": "SP",
+        "numero_habitantes": 92558,
+        "anexos": [
+            {
+                "nome": "sei_0024585_edital__comprasgov_.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-98671705900922024000-97e77c.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-sei_0024585_edital__comprasgov_-6be6ad.pdf",
+                "hash_content": "e8df375cd0614c5cbf04d00ca2afcdfb",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-sei_0024585_edital__comprasgov_-6be6ad.json"
+            },
+            {
+                "nome": "relacaoitens98671705900922024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-98671705900922024000-97e77c.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-relacaoitens98671705900922024000-13b7c9.pdf",
+                "hash_content": "7fb1a44c16aec3555e82b76e3cd0f93d",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce9313fa5179a43215b47b1e2c660f44-relacaoitens98671705900922024000-13b7c9.json"
+            }
+        ],
+        "hash_content": "2edea63c878a2d17b7d4cf03b6c71484"
+    }
+}

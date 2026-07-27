@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "f68ce3158c9c04517bbbf84b6b6deb8a",
+        "boletim_id": 109941133,
+        "id_origem": 16875855,
+        "numero_pregao": "PE/90003/2024",
+        "objeto": "* Licitação Eletrônica * - Material de expediente fita adesiva, elástico, corretivo em fita, papel couchê, coletor de impressões digitais, cola líquida branca, pilha alcalina AAA, bateria 9 volts. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-28",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "CREMERJ-Conselho Regional de Medicina do Rio de Janeiro",
+        "orgao_endereco": "Praia de Botafogo, 228 - Botafogo loja 1198",
+        "orgao_codigo": "389177",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - FITA ADESIVA\r\nFITA ADESIVA, LARGURA 45 MM, MATERIAL POLIPROPILENO, COMPRIMENTO 40 M\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 415\r\nUnidade de fornecimento: Unidade\r\n----------\r\n2 - CINTA ELÁSTICA\r\nCINTA ELÁSTICA, MATERIAL LÁTEX, LARGURA 1,8 X 1,8 MM MM, APLICAÇÃO AMARRARNUMERÁRIO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 210\r\nUnidade de fornecimento: Caixa 25,00 G\r\n----------\r\n3 - CORRETIVO FITA\r\nCORRETIVO FITA, MATERIAL BASE DE RESINA POLIESTER, COMPRIMENTO 8,50 M, LARGURA4,20 MM, CARACTERÍSTICAS ADICIONAIS COR BRANCA\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 150\r\nUnidade de fornecimento: Unidade\r\n----------\r\n4 - PAPEL PARA IMPRESSÃO FORMATADO\r\nPAPEL PARA IMPRESSÃO FORMATADO, TIPO COUCHÊ, TAMANHO C X L 297 X 210 MM,GRAMATURA 180 G/M2, COR BRANCO, CARACTERÍSTICA ADICIONAL ACABAMENTO FOSCO/MATTE\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 50\r\nUnidade de fornecimento: Embalagem 50,00 FL\r\n----------\r\n5 - COLETOR IMPRESSÃO DIGITAL\r\nCOLETOR IMPRESSÃO DIGITAL, FORMATO REDONDO, DIÂMETRO 35 A 40 MM, TIPO PORTÁTIL, CARACTERÍSTICAS ADICIONAIS NÃO SUJA OS DEDOS, NÃO REQUER SOLVENTES PARA REMO, COR PRETA, CAPACIDADE MÉDIA MÍNIMA 500 COLETAS, APLICAÇÃO EMISSÃO CARTEIRADE TRABALHO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 30\r\nUnidade de fornecimento: Unidade\r\n----------\r\n6 - COLA\r\nCOLA, COMPOSIÇÃO BASE ÁGUA, COR BRANCA, APLICAÇÃO PAPEL E MADEIRA, TIPOLÍQUIDO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 120\r\nUnidade de fornecimento: Unidade\r\n----------\r\n7 - PILHA\r\nPILHA, TAMANHO PALITO, MODELO AAA, SISTEMA ELETROQUÍMICO LITHIUM, TENSÃONOMINAL 1,5 V\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 120\r\nUnidade de fornecimento: Embalagem 2,00 UN\r\n----------\r\n8 - BATERIA NÃO RECARREGÁVEL\r\nBATERIA NÃO RECARREGÁVEL, APLICAÇÃO ELÉTRICA, SISTEMA ELETROQUÍMICO ALCALINA, TENSÃO NOMINAL 9 V\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 75\r\nUnidade de fornecimento: Unidade\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - FITA ADESIVA\r\n2 - CINTA ELÁSTICA\r\n3 - CORRETIVO FITA\r\n4 - PAPEL PARA IMPRESSÃO FORMATADO\r\n5 - COLETOR IMPRESSÃO DIGITAL\r\n6 - COLA\r\nG2\r\n7 - PILHA\r\n8 - BATERIA NÃO RECARREGÁVEL"
+        ],
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "numero_habitantes": 6211223,
+        "anexos": [
+            {
+                "nome": "edital_-_material_de_expediente_-_assinado.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-38917705900032024000-3e091c.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-edital_-_material_de_expediente_-_assinado-67b903.pdf",
+                "hash_content": "086118a8d2bc1a3b87ab56b7aee54354",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-edital_-_material_de_expediente_-_assinado-67b903.json"
+            },
+            {
+                "nome": "relacaoitens38917705900032024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-38917705900032024000-3e091c.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-relacaoitens38917705900032024000-cb054d.pdf",
+                "hash_content": "296c2657795234a91a4138dcd9473038",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-f68ce3158c9c04517bbbf84b6b6deb8a-relacaoitens38917705900032024000-cb054d.json"
+            }
+        ],
+        "hash_content": "7718eddce9f884a25b6a2085096db750"
+    }
+}

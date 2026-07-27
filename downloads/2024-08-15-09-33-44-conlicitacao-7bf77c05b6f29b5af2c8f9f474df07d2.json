@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "d690d82a8667bfae26d758a9bbe58396",
+        "boletim_id": 109941133,
+        "id_origem": 16876291,
+        "numero_pregao": "PE/90031/2024",
+        "objeto": "* Licitação Eletrônica * - CONTRATAÇÃO DE EMPRESA para aquisição de SMART TV 55 LED, de forma a implantação do programa Muralha Digital, para Guarda Municipal de Almirante Tamandaré necessários ao atendimento das demandas relacionadas vigilância da Guarda Municipais. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-09-02",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Almirante Tamandaré",
+        "orgao_endereco": "Avenida Emílio Johnson, 360",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - TELEVISOR\r\nTELEVISOR, TAMANHO TELA 55 POL, VOLTAGEM 110/220 V, COR PRETA, CARACTERÍSTICASADICIONAIS SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA LEDTOUCH SCREEN, ACESSÓRIOS CONTROLE REMOTO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "Almirante Tamandaré",
+        "estado": "PR",
+        "numero_habitantes": 119825,
+        "anexos": [
+            {
+                "nome": "edital.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-98740705900312024000-18d453.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-edital-b1627f.pdf",
+                "hash_content": "db4e884fa63f867884e26ec52a27c79a",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-edital-b1627f.json"
+            },
+            {
+                "nome": "relacaoitens98740705900312024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-98740705900312024000-18d453.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-relacaoitens98740705900312024000-c74be8.pdf",
+                "hash_content": "158b5e7337446f302ad92995772f5002",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-d690d82a8667bfae26d758a9bbe58396-relacaoitens98740705900312024000-c74be8.json"
+            }
+        ],
+        "hash_content": "7bf77c05b6f29b5af2c8f9f474df07d2"
+    }
+}

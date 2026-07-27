@@ -1,0 +1,39 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "aaec5be0db409fa41045319fe9a10385",
+        "boletim_id": 109941133,
+        "id_origem": 16876042,
+        "numero_pregao": "PE/90006/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada para a disponibilização de produto comercial já disponível no mercado de Sistemas de Gestão Empresarial ERP Enterprise Resource Planning, Recursos Humanos RH, folha de pagamento, solução financeira e fiscal, Inteligência de Negócios BI Business Intelligence, conforme especificações constantes do Anexo I Termo de Referência. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "São Paulo Obras ",
+        "orgao_endereco": "Rua Líbero Badaró nº 306 - 1º andar sala 03 centro",
+        "orgao_codigo": "926351",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Manutenção de Software Corretiva, Preventiva, Adaptativa\r\nContratação de empresa para a disponibilização de produto comercial já disponível no mercado de Sistemas de Gestão Empresarial ERPEnterprise Resource Planning, Recursos Humanos RH, folha de pagamento, solução financeira e fiscal, Inteligência de Negócios BIBusiness Intelligence conforme especificações constantes do Anexo ITermo de Referência, deste Edital\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: HORA SERVIÇO TECNICO\r\n"
+        ],
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero_habitantes": 11451999,
+        "anexos": [
+            {
+                "nome": "92635105900062024000.zip",
+                "formato": "zip",
+                "url": "https://apigw.positivotecnologia.com.br/conlicitacao/boletim_web/public/api/download?auth=eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOjY3MjgsImJpZGRpbmdfaWQiOjE2ODc2MDQyLCJmaWxlbmFtZSI6IjkyNjM1MTA1OTAwMDYyMDI0MDAwLnppcCIsInRva2VuIjoiZTQxZTFhNjAtOTJiNy00ODZlLWE4OTctZmMwZTRlMDY3YTBiIiwibW9iaWxlIjpmYWxzZSwiZXhwIjoxNzIzODEzOTMzfQ._TNPzPmWkihs514sZqsMbSLFXozHHbfxXoZthYXScKo",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-aaec5be0db409fa41045319fe9a10385-92635105900062024000-372a42.zip",
+                "hash_content": "ccd90724f665f057aa32458a21ca7fe0"
+            }
+        ],
+        "hash_content": "243faefaf677d8ce25d26fd324ee5bfb"
+    }
+}

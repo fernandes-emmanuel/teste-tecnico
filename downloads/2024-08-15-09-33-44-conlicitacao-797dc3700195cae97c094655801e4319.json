@@ -1,0 +1,39 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "96384e6db2001cc4136e2621be3fa31c",
+        "boletim_id": 109941133,
+        "id_origem": 16875945,
+        "numero_pregao": "PE/90087/2024",
+        "objeto": "* Licitação Eletrônica * - Registro de Preços de pontos de rede lógica, óptica e elétrica, incluindo materiais e ativação de infraestrutura e equipamentos GPON * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-09-04",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Tribunal de Justiça do Estado de São Paulo",
+        "orgao_endereco": "Rua Direita, nº 250, 23º andar – Sé",
+        "orgao_codigo": "926495",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - SWITCH\r\nSWITCH, CARACTERÍSTICAS ADICIONAIS ESPECIFICAÇÃO DE REFERÊNCIA- CENTRAL MÉDIO PORTE\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 20\r\nUnidade de fornecimento: Unidade\r\n----------\r\n2 - ROTEADOR\r\nROTEADOR, TIPO USO ESCRITÓRIO, PROTOCOLO LAN TCP/IP, NAT, DHCP, DNS, PAP, CHAP, PROTOCOLO WAN TCP/IP, NAT, DHCP, DNS, PAP, CHAP, TENSÃO ALIMENTAÇÃO 110 V,CONECTORES RJ-45 E FIBRA ÓTICA, RECURSO SEGURANÇA FIREWALL INTEGRADO, PAP/CHAP, FILTRAGEM END E, RECURSO GERENCIAMENTO TELNET, CONSOLE, WEB, RECURSOADICIONAL PADRÃO 19 POL, 1U E SUPORTE VPN, CARACTERÍSTICAS ADICIONAIS 4 PORTAS10/100 BASE TX FAST ETHERNET E 1 PORTA, VELOCIDADE ROTEAMENTO 100 MBPS\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2560\r\nUnidade de fornecimento: Unidade\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - SWITCH\r\n2 - ROTEADOR----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n3 - Instalação e Montagem de Rede Local de Conectividade\r\nInstalação e Montagem de Rede Local de Conectividade\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 20000\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n4 - Outros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação TIC\r\nOutros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação TIC\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2560\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n5 - Instalação/Manutenção/Operação - Elétrica\r\nInstalação/Manutenção/Operação - Elétrica\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 63040\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n6 - Outros Serviços deGerenciamento de Infraestrutura De Tecnologia da Informação e Comunicação TIC\r\nOutros Serviços deGerenciamento de Infraestrutura De Tecnologia da Informação e Comunicação TIC\r\nTratamento Diferenciado: Sem benefícios ME/EPPArt. 4º, lei 14.133/2021\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 32\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n----------\r\n\r\nGrupos\r\nG1\r\n3 - Instalação e Montagem de Rede Local de Conectividade\r\n4 - Outros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação TIC\r\n5 - Instalação/Manutenção/Operação - Elétrica\r\n6 - Outros Serviços deGerenciamento de Infraestrutura De Tecnologia da Informação e Comunicação TIC"
+        ],
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero_habitantes": 11451999,
+        "anexos": [
+            {
+                "nome": "92649505900872024000.zip",
+                "formato": "zip",
+                "url": "https://apigw.positivotecnologia.com.br/conlicitacao/boletim_web/public/api/download?auth=eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOjY3MjgsImJpZGRpbmdfaWQiOjE2ODc1OTQ1LCJmaWxlbmFtZSI6IjkyNjQ5NTA1OTAwODcyMDI0MDAwLnppcCIsInRva2VuIjoiZTQxZTFhNjAtOTJiNy00ODZlLWE4OTctZmMwZTRlMDY3YTBiIiwibW9iaWxlIjpmYWxzZSwiZXhwIjoxNzIzODEzOTMzfQ.m6Y9G4ykWySHWIgDJz2MWodNy_PU_FGguSpeJkucOtA",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-96384e6db2001cc4136e2621be3fa31c-92649505900872024000-806847.zip",
+                "hash_content": "22214148971963fb098eb7e5b3d88c45"
+            }
+        ],
+        "hash_content": "797dc3700195cae97c094655801e4319"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "c2bf5da2d97312912e450a7c2ced6ef9",
+        "boletim_id": 109941133,
+        "id_origem": 16865340,
+        "numero_pregao": "PE/58/2024",
+        "objeto": "* Licitação eletrônica *  registro de Preços para futura e eventual AQUISIÇÃO DE INSTRUMENTOS MUSICAIS E CAIXA DE SOM, conforme especificações constantes no Termo de Referência, em atendimento as necessidades da Secretaria Municipal de Assistência Social de Pedra Dourada - MG",
+        "numero_processo": "092/2024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-22",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Pedra Dourada",
+        "orgao_endereco": "Praça Cristalino de Aguiar Costa 20",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Pedra Dourada",
+        "estado": "MG",
+        "numero_habitantes": 2757,
+        "anexos": [
+            {
+                "nome": "anexo_1.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c2bf5da2d97312912e450a7c2ced6ef9-edital-b9b2b3.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c2bf5da2d97312912e450a7c2ced6ef9-anexo_1-288575.pdf",
+                "hash_content": "8cf6e53dc35919aa173da039beb8b1c6",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c2bf5da2d97312912e450a7c2ced6ef9-anexo_1-288575.json"
+            }
+        ],
+        "hash_content": "17eeea5852d37d6c69764ef6ed07172c"
+    }
+}

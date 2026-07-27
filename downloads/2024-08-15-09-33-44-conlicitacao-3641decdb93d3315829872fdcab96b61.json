@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "c827093d1cbb84686621e754f4854d7b",
+        "boletim_id": 109941133,
+        "id_origem": 16876134,
+        "numero_pregao": "PE/90038/2024",
+        "objeto": "* Licitação Eletrônica * - Fornecimento de softwares e soluções Autodesk conhecido como Architecture, Engineering y Construction Collection * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Suzano",
+        "orgao_endereco": "Rua Baruel, nº 501 - Centro",
+        "orgao_codigo": "987151",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software\r\nFornecimento de licenças AEC Collection, Suporte Técnico e atualizações de software por 12 meses.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 6\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "Suzano",
+        "estado": "SP",
+        "numero_habitantes": 307429,
+        "anexos": [
+            {
+                "nome": "pe_038_2024_fornecimento_licenca_software_bim.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-98715105900382024000-631d07.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-pe_038_2024_fornecimento_licenca_software_bim-4b2cc8.pdf",
+                "hash_content": "477c8b97d38645ad53f262160470da90",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-pe_038_2024_fornecimento_licenca_software_bim-4b2cc8.json"
+            },
+            {
+                "nome": "relacaoitens98715105900382024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-98715105900382024000-631d07.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-relacaoitens98715105900382024000-0e3704.pdf",
+                "hash_content": "73eb5c9c9adfd1f5567615a563a3da62",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c827093d1cbb84686621e754f4854d7b-relacaoitens98715105900382024000-0e3704.json"
+            }
+        ],
+        "hash_content": "3641decdb93d3315829872fdcab96b61"
+    }
+}

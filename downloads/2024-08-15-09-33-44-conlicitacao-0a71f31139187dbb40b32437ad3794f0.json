@@ -1,0 +1,102 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "53b8ac018271624d232551e387ea7768",
+        "boletim_id": 109941133,
+        "id_origem": 16875827,
+        "numero_pregao": "PE/90034/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada em Tecnologia da Informação para fornecer serviços que atendas as necessidades da área industrial da Base Naval de Aratu. Os serviços devem abranger: suporte técnico; manutenção em hardware, software e serviços de redes de computadores. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando da Marinha - Comando de Operações Navais - Comando do 2º Distrito Naval - Base Naval de Aratu",
+        "orgao_endereco": "Estrada da Base Naval s/nº           Base Naval de Aratu - São Tomé de Paripe",
+        "orgao_codigo": "782801",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Central de Serviços de TIC\r\nContratação de empresa especializada em Tecnologia da Informação para fornecer serviços que atendas as necessidades da área industrial da Base Naval de Aratu.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UND SERVIÇO TÉCNICO \r\n"
+        ],
+        "cidade": "Salvador",
+        "estado": "BA",
+        "numero_habitantes": 2417678,
+        "anexos": [
+            {
+                "nome": "01_-_minuta_de_edital.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-01_-_minuta_de_edital-6a3418.pdf",
+                "hash_content": "c0f1c3afd73715e56ffc305fc7b6de9c",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-01_-_minuta_de_edital-6a3418.json"
+            },
+            {
+                "nome": "02_-_termo_de_referncia.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-02_-_termo_de_referncia-5a8119.pdf",
+                "hash_content": "032c396894b983435240a15aadd7f27a",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-02_-_termo_de_referncia-5a8119.json"
+            },
+            {
+                "nome": "03_-_minuta_do_contrato_tic.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-03_-_minuta_do_contrato_tic-f86c34.pdf",
+                "hash_content": "901895ea275fdb9e428fa5a1ef57314a",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-03_-_minuta_do_contrato_tic-f86c34.json"
+            },
+            {
+                "nome": "04_-_estudo_tcnico_preliminar.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-04_-_estudo_tcnico_preliminar-88afaf.pdf",
+                "hash_content": "56684fbf951d92edaaea494b0d9894f0",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-04_-_estudo_tcnico_preliminar-88afaf.json"
+            },
+            {
+                "nome": "anexo_a_-_planilha_de_custos_estimados.xls",
+                "formato": "xls",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_a_-_planilha_de_custos_estimados-635588.xls",
+                "hash_content": "b5e6e8e04a51231f2249889b0cccf9e0"
+            },
+            {
+                "nome": "anexo_b_-_planilha_de_cotao_atual.xls",
+                "formato": "xls",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_b_-_planilha_de_cotao_atual-d39698.xls",
+                "hash_content": "86773070a13257c973a24237fb788ad6"
+            },
+            {
+                "nome": "anexo_c_-_atestado_de_vistoria.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_c_-_atestado_de_vistoria-65b53b.pdf",
+                "hash_content": "414b710aac1c89eea45a208183549497",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_c_-_atestado_de_vistoria-65b53b.json"
+            },
+            {
+                "nome": "anexo_d_-_imr.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_d_-_imr-227afa.pdf",
+                "hash_content": "ad17d0fa754b99a36c35daed72a6d946",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-anexo_d_-_imr-227afa.json"
+            },
+            {
+                "nome": "relacaoitens78280105900342024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-78280105900342024000-312484.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-relacaoitens78280105900342024000-19a297.pdf",
+                "hash_content": "f6c337938797da54bc853665e5d7759d",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-53b8ac018271624d232551e387ea7768-relacaoitens78280105900342024000-19a297.json"
+            }
+        ],
+        "hash_content": "0a71f31139187dbb40b32437ad3794f0"
+    }
+}

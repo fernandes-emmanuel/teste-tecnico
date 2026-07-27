@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "1b7d305f0522fe4d4957d2bdd9edb8a2",
+        "boletim_id": 109941133,
+        "id_origem": 16876079,
+        "numero_pregao": "PE/90188/2024",
+        "objeto": "* Licitação Eletrônica * - Registro de preços para possível aquisição de material gráfico personalizado com serviço de mão de obra, acessórios e instalação inclusa. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-28",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Botucatu",
+        "orgao_endereco": "Praça Professor Pedro Torres, nº 100",
+        "orgao_codigo": "986249",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - IMPRESSO PADRONIZADO\r\nIMPRESSO PADRONIZADO, MATERIAL PAPEL COUCHÊ FOSCO, TIPO FOLDER, GRAMATURA 150 G/M2, COMPRIMENTO 21 CM, LARGURA 20 CM, COR 4/4, APLICAÇÃO DIVULGAÇÃOINSTITUCIONAL\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "Botucatu",
+        "estado": "SP",
+        "numero_habitantes": 145155,
+        "anexos": [
+            {
+                "nome": "edital_188_2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-98624905901882024000-b9384d.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-edital_188_2024-7852ac.pdf",
+                "hash_content": "b8497cd4ce44588e7e47616f7bfd9bde",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-edital_188_2024-7852ac.json"
+            },
+            {
+                "nome": "relacaoitens98624905901882024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-98624905901882024000-b9384d.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-relacaoitens98624905901882024000-47bc17.pdf",
+                "hash_content": "7277b3dae9aaaf6d238ee8087ef6e9cf",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1b7d305f0522fe4d4957d2bdd9edb8a2-relacaoitens98624905901882024000-47bc17.json"
+            }
+        ],
+        "hash_content": "06d5a88104a8946855d4d74b37a0acb6"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "eed34cec10cb326f478880254bf9288a",
+        "boletim_id": 109941133,
+        "id_origem": 16876220,
+        "numero_pregao": "PE/90012/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa especializada para reforço do guarda corpo do plenário Juscelino Kubitschek, confecção e aplicação de 12 portas de segurança, em aço inox e vidro laminado e temperado, no mesmo padrão utilizado nas dependências da ALESP, compreendendo intervenções de natureza civil, confecção e instalação de cabeamentos, controles e motorizações, nos locais indicados no projeto básico, e elaboração de plano de ataque com fornecimento total de materiais de consumo * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-09-02",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "ALESP-Assembléia Legislativa do Estado de São Paulo",
+        "orgao_endereco": "Avenida Pedro Álvares Cabral, 201 - Ibirapuera",
+        "orgao_codigo": "010101-BEC",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Serviço Engenharia\r\nContratação de empresa especializada para reforço do guarda corpo do plenário Juscelino Kubitschek, confecção e aplicação de 12 portas de segurança, em aço inox e vidro laminado e temperado, no mesmo padrão utilizado nas dependências da ALESP, compreendendo intervenções de natureza civil, confecção e instalação de cabeamentos, controles e motorizações, nos locais indicados no projeto básico, e elaboração de plano de ataque com fornecimento total de materiais de consumo, ferramental, mão-de-obra e supervisão, nas dependências da Assembleia Legislativa do Estado de São Paulo\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero_habitantes": 11451999,
+        "anexos": [
+            {
+                "nome": "67-2024_-_edital_-_portas_de_segurana_jk.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_edital_-_portas_de_segurana_jk-476452.docx",
+                "hash_content": "183c3e16ed4e7c0ca48913aaee975f09"
+            },
+            {
+                "nome": "67-2024_-_estudo_tecnico_preliminar_r1_07082024_185635.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_estudo_tecnico_preliminar_r1_07082024_185635-f7e1b2.pdf",
+                "hash_content": "f2dd9f6f858474c3150eea7241c0a69b",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_estudo_tecnico_preliminar_r1_07082024_185635-f7e1b2.json"
+            },
+            {
+                "nome": "67-2024_-_termo_referencia_-_portas_de_segurana_r1_07082024_185707.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_termo_referencia_-_portas_de_segurana_r1_07082024_185707-698435.pdf",
+                "hash_content": "660666b4283dad5738211f146cea0d12",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_termo_referencia_-_portas_de_segurana_r1_07082024_185707-698435.json"
+            },
+            {
+                "nome": "67-2024_-_analise_de_riscos.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_analise_de_riscos-ca0baa.pdf",
+                "hash_content": "592dcfaad3fadafced6f091164d33c91",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_analise_de_riscos-ca0baa.json"
+            },
+            {
+                "nome": "67-2024_-_apendice_a_-_elementos_graficos_13062024_190039.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_a_-_elementos_graficos_13062024_190039-eb7d40.pdf",
+                "hash_content": "f0fd13e4cde44521c0c429f9627e61a7",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_a_-_elementos_graficos_13062024_190039-eb7d40.json"
+            },
+            {
+                "nome": "67-2024_-_apendice_b_-_planilha_oramentaria_r1_07082024_185748.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_b_-_planilha_oramentaria_r1_07082024_185748-3b4f23.pdf",
+                "hash_content": "ce9d1dad4d1fe198ef88acc9ed36643b",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_b_-_planilha_oramentaria_r1_07082024_185748-3b4f23.json"
+            },
+            {
+                "nome": "67-2024_-_apendice_c_-_cronograma_fisico_financeiro_r1_07082024_185829.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_c_-_cronograma_fisico_financeiro_r1_07082024_185829-476792.pdf",
+                "hash_content": "72ecc402d4c2a8d93f9c6353eb1dce39",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_apendice_c_-_cronograma_fisico_financeiro_r1_07082024_185829-476792.json"
+            },
+            {
+                "nome": "67-2024_-_edital_-_portas_de_segurana_jk_-_assinado.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_edital_-_portas_de_segurana_jk_-_assinado-cb2ccf.pdf",
+                "hash_content": "970fab4e2785f1306ed6b84459dc2600",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-67-2024_-_edital_-_portas_de_segurana_jk_-_assinado-cb2ccf.json"
+            },
+            {
+                "nome": "relacaoitens95651805900122024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-95651805900122024000-c04479.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-relacaoitens95651805900122024000-d205dc.pdf",
+                "hash_content": "53e1bf24f617de652c69fb3b83d456a7",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eed34cec10cb326f478880254bf9288a-relacaoitens95651805900122024000-d205dc.json"
+            }
+        ],
+        "hash_content": "7c520e397456af2bfec4e27fc2222eae"
+    }
+}

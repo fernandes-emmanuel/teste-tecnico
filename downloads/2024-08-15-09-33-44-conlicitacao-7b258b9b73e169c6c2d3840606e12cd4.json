@@ -1,0 +1,64 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "1aa6a2e5c944bc100a3a300232b5b134",
+        "boletim_id": 109941133,
+        "id_origem": 16789356,
+        "numero_pregao": "PE/13/2024",
+        "objeto": "* Licitação Eletrônica * CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO DE PLATAFORMA WEB COM SOLUÇÃO INFORMATIZADA DE GESTÃO PÚBLICA MUNICIPAL, COM ARMAZENAMENTO EM NUVEM POR CONTA DA CONTRATADA E NÚMERO DE USUÁRIOS ILIMITADOS, INCLUINDO OS SERVIÇOS DE CONVERSÃO DE...",
+        "numero_processo": "PROC. Nº 34/2024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Imbituba",
+        "orgao_endereco": "Avenida Doutor João Rimsa, 531 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "Serviços de diagnóstico, migração de dados e implantação de sistemas e treinamento Prefeitura Municipal de IMBITUBA, Secretarias e Fundos.\r\n\r\nServiços de diagnóstico, migração de dados e implantação de sistemas e treinamento Câmara de Imbituba.\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SEFAZ\r\n\r\nGestão de pessoas contendo os módulos: folha de pagamento e e-social; saúde ocupacional; recursos humanos; estágio probatório; avaliação de desempenho; recrutamento e seleção, portal - SEAD\r\n\r\nPonto eletrônico - SEAD\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SEAD\r\n\r\nGestão Patrimônio - SEAD\r\n\r\nGestão de Almoxarifado - SEAD\r\n\r\nGestão de Frotas - PMI\r\n\r\nGestão de Procuradoria - SEAD\r\n\r\nPortal da transparência - SEFAZ\r\n\r\nFiscalização fazendária contendo os módulos: escrita fiscal eletrônica; nota fiscal eletrônica de serviços; dívida ativa; Simples nacional; ISS bancos - SEFAZ\r\n\r\nTributário contendo os módulos: arrecadação; IPTU e taxas; ISS e taxas; receitas diversas; contribuição de melhoria; ITBI e taxas - SEFAZ\r\n\r\nMódulo Obras e posturas - SEFIC\r\n\r\nPortal de Serviços - SEAD\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SAMAE\r\n\r\nGestão de pessoas contendo os módulos: folha de pagamento e e-social; saúde ocupacional; recursos humanos; estágio probatório; avaliação de desempenho; recrutamento e seleção, portal - SAMAE\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SAMAE\r\n\r\nGestão Patrimônio - SAMAE\r\n\r\nGestão de Frotas - SAMAE\r\n\r\nGestão de Almoxarifado - SAMAE\r\n\r\nPortal da transparência - SAMAE\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - Câmara de Vereadores\r\n\r\nGestão de pessoas contendo os módulos: folha de pagamento e e-social; saúde ocupacional; recursos humanos; estágio probatório; avaliação de desempenho; recrutamento e seleção, portal - Câmara de Vereadores\r\n\r\nPonto eletrônico - Câmara de Vereadores\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - Câmara de Vereadores\r\n\r\nGestão Patrimônio - Câmara de Vereadores\r\n\r\nPortal da transparência - Cãmara de Vereadores\r\n\r\nGestão de Almoxarifado - Câmara de Vereadores\r\n\r\nGestão de Frotas - Câmara de Vereadores\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DE PREVENÇÃO DE ABUSO E DROGAS DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DE PREVENÇÃO DE ABUSO E DROGAS DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DE PREVENÇÃO DE ABUSO E DROGAS DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DE PREVENÇÃO DE ABUSO E DROGAS DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SEASH\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SEASH\r\n\r\nGestão Patrimônio - SEASH\r\n\r\nPortal da transparência - SEASH\r\n\r\nGestão de Almoxarifado - SEASH\r\n\r\nGestão de Frotas - SEASH\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DE CULTURA DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DE CULTURA DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DE CULTURA DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DE CULTURA DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SEDETUR\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SEDETUR\r\n\r\nGestão Patrimônio - SEDETUR\r\n\r\nPortal da transparência - SEDETUR\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SEMUSA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SEMUSA\r\n\r\nGestão Patrimônio - SEMUSA\r\n\r\nPortal da transparência - SEMUSA\r\n\r\nGestão de Almoxarifado - SEMUSA\r\n\r\nGestão de Frotas - SEMUSA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DO IDOSO DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DO IDOSO DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DO IDOSO DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DO IDOSO DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - SEMA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - SEMA\r\n\r\nGestão Patrimônio - SEMA\r\n\r\nPortal da transparência - SEMA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DE HABITAÇÃO DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DE HABITAÇÃO DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DE HABITAÇÃO DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DE HABITAÇÃO DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - FUNDO MUNICIPAL DE SANEAMENTO DE IMBITUBA\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - FUNDO MUNICIPAL DE SANEAMENTO DE IMBITUBA\r\n\r\nGestão Patrimônio - FUNDO MUNICIPAL DE SANEAMENTO DE IMBITUBA\r\n\r\nPortal da transparência - FUNDO MUNICIPAL DE SANEAMENTO DE IMBITUBA\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - DEMUTRAN\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - DEMUTRAN\r\n\r\nGestão Patrimônio - DEMUTRAN\r\n\r\nPortal da transparência - DEMUTRAN\r\n\r\nGestão de Almoxarifado - DEMUTRAN\r\n\r\nGestão de Frotas - DEMUTRAN\r\n\r\nPlanejamento, Orçamento, Contabilidade Pública e Tesouraria - PGM\r\n\r\nCompras, licitações, Contratos e monitoramento de notas fiscais - PGM\r\n\r\nGestão Patrimônio - PGM\r\n\r\nPortal da transparência - PGM\r\n\r\nServiços suplementares de suporte técnico presencial e/ou alterações específicas solicitadas pelo contratante, quando necessário\r\n\r\nServiços de personalização e customização de softwares e serviços correlatos - - Prefeitura Municipal de IMBITUBA, Secretarias e Fundos\r\n\r\nServiços suplementares de suporte técnico presencial e/ou alterações específicas solicitadas pelo contratante, quando necessário - Câmara Municipal de IMBITUBA\r\n\r\nServiços de personalização e customização de softwares e serviços correlatos - Câmara Municipal de IMBITUBA\r\n\r\n"
+        ],
+        "cidade": "Imbituba",
+        "estado": "SC",
+        "numero_habitantes": 52579,
+        "anexos": [
+            {
+                "nome": "anexo_1.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-edital-8c5318.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_1-414cb9.pdf",
+                "hash_content": "5b04641bca6a6fcfad55c35d08caef8e",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_1-414cb9.json"
+            },
+            {
+                "nome": "anexo_2.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-edital-8c5318.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_2-1df7ea.pdf",
+                "hash_content": "39a554e496ba5099c3ab76950c826c25",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_2-1df7ea.json"
+            },
+            {
+                "nome": "anexo_3.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-edital-8c5318.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_3-e5c0b5.pdf",
+                "hash_content": "7aa9dc672c572c177756a7a9a51eb152",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_3-e5c0b5.json"
+            },
+            {
+                "nome": "anexo_4.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-edital-8c5318.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_4-f01a22.pdf",
+                "hash_content": "442ff56ee7cdb3bf0030e46f3db4a331",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-1aa6a2e5c944bc100a3a300232b5b134-anexo_4-f01a22.json"
+            }
+        ],
+        "hash_content": "7b258b9b73e169c6c2d3840606e12cd4"
+    }
+}

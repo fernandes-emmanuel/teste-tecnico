@@ -1,0 +1,40 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "5c1c1270333f26f66f7f20eb24ebef57",
+        "boletim_id": 109941133,
+        "id_origem": 16871810,
+        "numero_pregao": "PE/87/2024",
+        "objeto": "* Licitação eletrônica * Fornecimento de materiais escolares, para atender as necessidades da Secretaria Municipal de Educação",
+        "numero_processo": "8723/2024",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-26",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de Santa Bárbara D'Oeste",
+        "orgao_endereco": "Avenida Monte Castelo, nº1000 - Jardim Primavera - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            "https://www.bbmnetlicitacoes.com.br/"
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Santa Bárbara D'Oeste",
+        "estado": "SP",
+        "numero_habitantes": 999999,
+        "anexos": [
+            {
+                "nome": "edital_de_pregao_eletronico_20240814151046.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-5c1c1270333f26f66f7f20eb24ebef57-edital-b611cd.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-5c1c1270333f26f66f7f20eb24ebef57-edital_de_pregao_eletronico_20240814151046-b5034f.pdf",
+                "hash_content": "24b0c5bb20c6b56191cade74efd067a2",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-5c1c1270333f26f66f7f20eb24ebef57-edital_de_pregao_eletronico_20240814151046-b5034f.json"
+            }
+        ],
+        "hash_content": "7becef01f60afb3e80f835f00867af41"
+    }
+}

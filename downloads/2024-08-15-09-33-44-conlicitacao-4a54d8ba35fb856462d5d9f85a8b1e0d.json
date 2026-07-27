@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "034d57ea3fb52d1dc01f6749addc4720",
+        "boletim_id": 109941133,
+        "id_origem": 16809826,
+        "numero_pregao": "PE/90009/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de serviços de instalação de câmeras de segurança no Quartel-General da 4ª Brigada de Infantaria Leve de Montanha Fase II * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-16",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando do Exército - Comando Militar do Leste - 4ª Região Militar / 4ª Divisão de Exército - 4ª Brigada de Infantaria Motorizada",
+        "orgao_endereco": "Rua Mariano Procópio, 970",
+        "orgao_codigo": "160111",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Monitoramento de Imagens de Cameras e Circuito Fechado TV\r\nServiço de instalação e configuração de 47 quarenta e sete Câmeras. Sendo 40 quarenta câmeras IP Bullet, 07 sete câmeras Speed Dome, NVRs, Switchs PoE, Nobreaks, incluindo serviços de canaletas e eletrodutos, proteção de aterramento, a passagem de cabo/Fibra e todos materiais necessários para o funcionamento do sistema completo de videomonitoramento. Integrar ao novo sistema de videomonitoramento 8 oito câmeras IP Bullet, sendo que essas encontram-se instaladas e em funcionamento.\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "numero_habitantes": 540756,
+        "anexos": [],
+        "hash_content": "4a54d8ba35fb856462d5d9f85a8b1e0d"
+    }
+}

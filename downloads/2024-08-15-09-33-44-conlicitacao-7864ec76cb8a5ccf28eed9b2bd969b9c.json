@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "c12c2530efc07c3bbcc5bbcb0a7054e8",
+        "boletim_id": 109941133,
+        "id_origem": 16876246,
+        "numero_pregao": "PE/90008/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de prestação de serviços contínuos de telefonia fixo comutada STFC, nas modalidades fixo-fixo e fixo-móvel, para chamadas locais, interurbanas, intraestaduais e interestaduais.. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-28",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Diretoria de Ensino - Região de Osasco",
+        "orgao_endereco": "Rua Geraldo Moura, nº 271",
+        "orgao_codigo": "080284-BEC",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Chamadas Locais Fixo-Fixo STFC-Local-FF\r\nChamadas Locais Fixo-Fixo STFC-Local-FF\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: MINUTOS\r\n"
+        ],
+        "cidade": "Osasco",
+        "estado": "SP",
+        "numero_habitantes": 728615,
+        "anexos": [
+            {
+                "nome": "minita_telefone.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-08028405900082024000-fa91d7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-minita_telefone-0c0771.pdf",
+                "hash_content": "a55f2c06729d681a86d7ae88c0852c08",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-minita_telefone-0c0771.json"
+            },
+            {
+                "nome": "relacaoitens08028405900082024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-08028405900082024000-fa91d7.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-relacaoitens08028405900082024000-4092fc.pdf",
+                "hash_content": "afea89ef2a5fe67ba9f42081d6ea2099",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-c12c2530efc07c3bbcc5bbcb0a7054e8-relacaoitens08028405900082024000-4092fc.json"
+            }
+        ],
+        "hash_content": "7864ec76cb8a5ccf28eed9b2bd969b9c"
+    }
+}

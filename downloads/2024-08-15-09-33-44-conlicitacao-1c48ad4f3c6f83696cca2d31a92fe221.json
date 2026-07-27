@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "b4ff16ecbe94d0ab498e964bdc5edea3",
+        "boletim_id": 109941133,
+        "id_origem": 16825666,
+        "numero_pregao": "SM/110/2024",
+        "objeto": "Credenciamento de empresa especializada na prestação de serviço de administração, fornecimento, gerenciamento e emissão de cartões eletrônicos ou magnéticos e aplicativo para dispositivo móvel com visualização de saldo, extrato e realização de compras, ambos com senha individual e recarga mensal, destinado ao vale-refeição dos servidores municipais",
+        "numero_processo": "453/24",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "SM",
+        "orgao": "Prefeitura Municipal da Estância Balneária de Caraguatatuba",
+        "orgao_endereco": "Rua Luíz Passos Júnior, nº 50 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            "www.bll.org.br"
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Caraguatatuba",
+        "estado": "SP",
+        "numero_habitantes": 134873,
+        "anexos": [],
+        "hash_content": "1c48ad4f3c6f83696cca2d31a92fe221"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "ce31d172862a19d567041200eec443dc",
+        "boletim_id": 109941133,
+        "id_origem": 16876288,
+        "numero_pregao": "PE/90004/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de empresa para prestação de serviços continuados de serviço de controle de acesso, monitoramento eletrônico e CFTV, incluindo fornecimento e suporte para software de gestão operacional, instalação da infraestrutura necessária, instalação dos equipamentos e sistemas propriamente ditos, conectividade dos sistemas, manutenção preventiva e corretiva dos equipamentos em locação e fornecimento de apps para mobile. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Loteria do Estado do Paraná – LOTEPAR",
+        "orgao_endereco": "Não Informado",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Monitoramento de Imagens de Cameras e Circuito Fechado TV\r\nMonitoramento de Imagens de Cameras e Circuito Fechado TV\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "numero_habitantes": 1773718,
+        "anexos": [
+            {
+                "nome": "edital_004-2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-92952405900042024000-e48878.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-edital_004-2024-57edc8.pdf",
+                "hash_content": "b65ab33833d54d921543787e4ffa7a7d",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-edital_004-2024-57edc8.json"
+            },
+            {
+                "nome": "relacaoitens92952405900042024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-92952405900042024000-e48878.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-relacaoitens92952405900042024000-5c56a6.pdf",
+                "hash_content": "309e61524f830a95ab550197746e8c42",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ce31d172862a19d567041200eec443dc-relacaoitens92952405900042024000-5c56a6.json"
+            }
+        ],
+        "hash_content": "78d2787c4bf74ad8cce60187419be78d"
+    }
+}

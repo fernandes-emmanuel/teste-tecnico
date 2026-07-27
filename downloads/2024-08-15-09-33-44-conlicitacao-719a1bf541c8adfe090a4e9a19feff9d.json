@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "324e728f7ae0596796e51d227e8611fa",
+        "boletim_id": 109941133,
+        "id_origem": 16852147,
+        "numero_pregao": "DL/115/2024",
+        "objeto": "AQUISIÇÃO DE IMPRESSORAS MULTIFUNCIONAIS TANQUE DE TINTA PARA A COORDENADORIA DA ASSISTÊNCIA SOCIAL, PARA ENTREGA IMEDIATA,",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-15",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "DL",
+        "orgao": "Prefeitura Municipal de Piratininga",
+        "orgao_endereco": "Praça Mario Ribeiro da Silva, nº14 - Centro",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            ""
+        ],
+        "cidade": "Piratininga",
+        "estado": "SP",
+        "numero_habitantes": 15108,
+        "anexos": [],
+        "hash_content": "719a1bf541c8adfe090a4e9a19feff9d"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "74fdfad6253fa6ac0f1b8d5059009c3c",
+        "boletim_id": 109941133,
+        "id_origem": 16876188,
+        "numero_pregao": "PE/90036/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de licenças tipo Microsoft 365 Business Standard com Microsoft Teams, por um período de 12 doze meses, conforme condições e exigências estabelecidas neste instrumento. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Tribunal de Justiça do Estado do Amazonas",
+        "orgao_endereco": "Av. André Araújo, S/n - Aleixo",
+        "orgao_codigo": "925866",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Licenciamento de Outros Direitos Permanentes sobre Programasde Computador\r\nContratação de licenças tipo Microsoft 365 Business Standard com Microsoft Teams, por um período de 12 doze meses, conforme condições e exigências estabelecidas neste instrumento.\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 100\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "Manaus",
+        "estado": "AM",
+        "numero_habitantes": 2063689,
+        "anexos": [
+            {
+                "nome": "edital_pe_036-2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-92586605900362024000-54381b.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-edital_pe_036-2024-fb08c2.pdf",
+                "hash_content": "732c2223385090d13fc26cb42c7d3ae5",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-edital_pe_036-2024-fb08c2.json"
+            },
+            {
+                "nome": "relacaoitens92586605900362024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-92586605900362024000-54381b.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-relacaoitens92586605900362024000-b6b13d.pdf",
+                "hash_content": "ee101e95644aa78d3aa81e4628d15a75",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-74fdfad6253fa6ac0f1b8d5059009c3c-relacaoitens92586605900362024000-b6b13d.json"
+            }
+        ],
+        "hash_content": "17e3cb796d85347f207f75f4c9c17c16"
+    }
+}

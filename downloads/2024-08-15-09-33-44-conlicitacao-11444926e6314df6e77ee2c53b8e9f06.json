@@ -1,0 +1,55 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "921ec02efdac8d28c8de5ebde9f1ca49",
+        "boletim_id": 109941133,
+        "id_origem": 16876681,
+        "numero_pregao": "PE/89/2024",
+        "objeto": "* Licitação Eletrônica * FOLHA SULFITE",
+        "numero_processo": "103 / 2024 - 5657",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Prefeitura Municipal de São Gonçalo do Sapucaí",
+        "orgao_endereco": "Av. Tiradentes, 526 - Bairro Inconfidentes",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "PAPEL SULFITE A4\r\n\r\n"
+        ],
+        "cidade": "São Gonçalo do Sapucaí",
+        "estado": "MG",
+        "numero_habitantes": 23959,
+        "anexos": [
+            {
+                "nome": "anexo_1.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-edital-f575be.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-anexo_1-9f88f7.pdf",
+                "hash_content": "710dc230ecebd84647875522bbe9d1c6",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-anexo_1-9f88f7.json"
+            },
+            {
+                "nome": "anexo_2.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-edital-f575be.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-anexo_2-a70b76.pdf",
+                "hash_content": "d10ad3c7ce6f070d1b4ca21ac131a6b1",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-anexo_2-a70b76.json"
+            },
+            {
+                "nome": "anexo_3.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-edital-f575be.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-921ec02efdac8d28c8de5ebde9f1ca49-anexo_3-39eafe.docx",
+                "hash_content": "fdbab3230f75c9d560d3ffd5b2ba26ea"
+            }
+        ],
+        "hash_content": "11444926e6314df6e77ee2c53b8e9f06"
+    }
+}

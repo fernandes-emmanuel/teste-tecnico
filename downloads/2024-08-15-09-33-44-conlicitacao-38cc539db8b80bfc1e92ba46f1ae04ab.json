@@ -1,0 +1,47 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "ac225fe64dc283c6c75de64ad8a73810",
+        "boletim_id": 109941133,
+        "id_origem": 16875974,
+        "numero_pregao": "PE/90009/2024",
+        "objeto": "* Licitação Eletrônica * - Aquisição de máquina Plotter para a Gráfica do Exército. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-27",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando do Exército - Secretaria Geral do Exército - Estabelecimento General Gustavo Cordeiro de Farias",
+        "orgao_endereco": "QGEX - EGGCF - Setor de Garangens - Setor Militar Urbano",
+        "orgao_codigo": "160083",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - IMPRESSORA JATO TINTA\r\nIMPRESSORA JATO TINTA, RESOLUÇÃO IMPRESSÃO 1200X600 DPI, VELOCIDADE IMPRESSÃO PRETO E BRANCO 3,30 M2/H, VELOCIDADE IMPRESSÃO COLORIDA 7,9; 3,3 E 2 M2/H,TENSÃO ALIMENTAÇÃO 110/240 VCA, COMPATIBILIDADE WINDOWS 9X/ WINDOWS NT SERVER,DIMENSÃO MÁXIMA FOLHAS 210 A 1.067 MM LARGURA, 210 A 1.897 MM COMPRIMENT O,MEMÓRIA MÍNIMA 16 MB, MEMÓRIA MÁXIMA 160 MB, CARACTERÍSTICAS ADICIONAISALIMENTAÇÃO EM FOLHAS, ROLOS E CORTE AUTOMÁTICO,, FREQUÊNCIA 50/60 HZ,CONECTIVIDADE IEEE 1284, 1 USB 1.1, TIPO PLOTTER\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "Brasília",
+        "estado": "DF",
+        "numero_habitantes": 2817381,
+        "anexos": [
+            {
+                "nome": "pr_90009-2024_edital_e_seus_anexos.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ac225fe64dc283c6c75de64ad8a73810-16008305900092024000-24611e.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ac225fe64dc283c6c75de64ad8a73810-pr_90009-2024_edital_e_seus_anexos-0a8736.pdf",
+                "hash_content": "babfa32158a1cc00df39765f6a6bd1d0"
+            },
+            {
+                "nome": "relacaoitens16008305900092024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ac225fe64dc283c6c75de64ad8a73810-16008305900092024000-24611e.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ac225fe64dc283c6c75de64ad8a73810-relacaoitens16008305900092024000-562917.pdf",
+                "hash_content": "ac5bc81e2710c18aa1469efa05bbf3bd",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-ac225fe64dc283c6c75de64ad8a73810-relacaoitens16008305900092024000-562917.json"
+            }
+        ],
+        "hash_content": "38cc539db8b80bfc1e92ba46f1ae04ab"
+    }
+}

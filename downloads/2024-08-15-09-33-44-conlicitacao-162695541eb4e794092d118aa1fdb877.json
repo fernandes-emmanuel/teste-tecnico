@@ -1,0 +1,56 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "deff27ee35df44fcbb0c06d3f6314d4e",
+        "boletim_id": 109941133,
+        "id_origem": 16876151,
+        "numero_pregao": "PE/90038/2024",
+        "objeto": "* Licitação Eletrônica * - Aquisição de cartucho/toner para impressora * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-27",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "PRESIDÊNCIA DA REPÚBLICA - Casa Civil - Secretaria de Administração",
+        "orgao_endereco": "Palácio do Planalto, Anexo II, Ala A, sala 102 -Assessoria Técnica de Licitação. - Praça dos Três Poderes",
+        "orgao_codigo": "110001",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - CARTUCHO TINTA IMPRESSORA HP\r\nCARTUCHO TINTA IMPRESSORA HP, TIPO CARTUCHO ORIGINAL, COR TINTA PRETO,REFERÊNCIA CARTUCHO 6 C2P05AL\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 170\r\nUnidade de fornecimento: Unidade\r\n----------\r\n2 - CARTUCHO TINTA IMPRESSORA HP\r\nCARTUCHO TINTA IMPRESSORA HP, TIPO CARTUCHO ORIGINAL, COR TINTA COLORIDA,REFERÊNCIA CARTUCHO 6 C2P07AL\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 150\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "Brasília",
+        "estado": "DF",
+        "numero_habitantes": 2817381,
+        "anexos": [
+            {
+                "nome": "11_edital_pe_90038_2024_aquisio_de_cartuchos.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-11000105900382024000-968bd3.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-11_edital_pe_90038_2024_aquisio_de_cartuchos-12866b.pdf",
+                "hash_content": "3c48787e7af54723d6274885cff2d622",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-11_edital_pe_90038_2024_aquisio_de_cartuchos-12866b.json"
+            },
+            {
+                "nome": "12_tr_e_etp_recomendaes_saj.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-11000105900382024000-968bd3.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-12_tr_e_etp_recomendaes_saj-159f74.pdf",
+                "hash_content": "1682b93c4743e2088dd4e54fd63d4f1c",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-12_tr_e_etp_recomendaes_saj-159f74.json"
+            },
+            {
+                "nome": "relacaoitens11000105900382024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-11000105900382024000-968bd3.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-relacaoitens11000105900382024000-a5fbaf.pdf",
+                "hash_content": "f41452ba69decc7fac95b5175b5d0c6c",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-deff27ee35df44fcbb0c06d3f6314d4e-relacaoitens11000105900382024000-a5fbaf.json"
+            }
+        ],
+        "hash_content": "162695541eb4e794092d118aa1fdb877"
+    }
+}

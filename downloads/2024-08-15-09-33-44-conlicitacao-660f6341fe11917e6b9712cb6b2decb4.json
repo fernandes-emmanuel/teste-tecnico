@@ -1,0 +1,31 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "9924ec95b73254fdfc3fedc485b93ad1",
+        "boletim_id": 109941133,
+        "id_origem": 16814335,
+        "numero_pregao": "PE/90005/2024",
+        "objeto": "* Licitação Eletrônica * - O objeto da presente licitação é a contratação de solução de tecnologia da informação de serviço de outsourcing de impressão corporativa, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-15",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando do Exército - Comando Militar do Leste - 1ª Região Militar - Laboratório Químico e Farmacêutico do Exército",
+        "orgao_endereco": "Rua Licínio Cardoso, 96 - Triagem",
+        "orgao_codigo": "160328",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Outsourcing deImpressão - Locação de Equipamento - Monocromático A4 até 30 PPM\r\nOutsourcing deImpressão - Locação de Equipamento - Monocromático A4 até 30 PPM\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 96\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n2 - Outsourcing deImpressão - Páginas A4 - Policromático - Dentro da Franquia sem papel\r\nOutsourcing deImpressão - Páginas A4 - Policromático - Dentro da Franquia sem papel\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 48\r\nUnidade de fornecimento: PÁGINAS MÊS\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - Outsourcing deImpressão - Locação de Equipamento - Monocromático A4 até 30 PPM\r\n2 - Outsourcing deImpressão - Páginas A4 - Policromático - Dentro da Franquia sem papel"
+        ],
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "numero_habitantes": 6211223,
+        "anexos": [],
+        "hash_content": "660f6341fe11917e6b9712cb6b2decb4"
+    }
+}

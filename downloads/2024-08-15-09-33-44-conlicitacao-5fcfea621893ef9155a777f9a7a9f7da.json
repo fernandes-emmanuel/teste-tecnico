@@ -1,0 +1,85 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "eb806912bf14f0bd3fef544c83258d4d",
+        "boletim_id": 109941133,
+        "id_origem": 16875825,
+        "numero_pregao": "PE/90019/2024",
+        "objeto": "* Licitação Eletrônica * - Contratação de Serviço de Telefonia Móvel Pessoal SMP e de Internet Móvel. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-30",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "MINISTÉRIO DA DEFESA - Comando do Exército - BASE DE ADMINISTRAÇÃO E APOIO (CMN)",
+        "orgao_endereco": "Rua Joao Diogo",
+        "orgao_codigo": "160196",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Pacote de Serviços SMP Voz, Dados, SMS, Etc\r\nServiço de Telefonia Móvel Pessoal SMP e Internet Móvel Ilimitada, incluindo: ligações ilimitadas locais VC1 e de longa distância VC2 e VC3, para telefone fixo ou móvel de qualquer operadora; roaming nacional; caixa postal; envio de SMS; fornecimento de Chip Sim Card, com tecnologia 5G e franquia mensal mínima de 5 GB; ferramenta de gerenciamento de dispositivos MDM.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 360\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n2 - Pacote de Serviços SMP Voz, Dados, SMS, Etc\r\nServiço de Telefonia Móvel Pessoal SMP e Internet Móvel Ilimitada, incluindo: ligações ilimitadas locais VC1 e de longa distância VC2 e VC3, para telefone fixo ou móvel de qualquer operadora; roaming nacional; caixa postal; envio de SMS; fornecimento de Chip Sim Card, com tecnologia 5G e franquia mensal mínima de 10 GB; ferramenta de gerenciamento de dispositivos MDM.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 612\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n3 - Pacote de Serviços SMP Voz, Dados, SMS, Etc\r\nServiço de Telefonia Móvel Pessoal SMP e Internet Móvel Ilimitada, incluindo: ligações ilimitadas locais VC1 e de longa distância VC2 e VC3, para telefone fixo ou móvel de qualquer operadora; roaming nacional; caixa postal; envio de SMS; fornecimento de Chip Sim Card, com tecnologia 5G e franquia mensal mínima de 20 GB; ferramenta de gerenciamento de dispositivos MDM.\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: -\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 420\r\nUnidade de fornecimento: UNIDADE\r\n----------\r\n\r\nGrupos\r\nG1\r\n1 - Pacote de Serviços SMP Voz, Dados, SMS, Etc\r\n2 - Pacote de Serviços SMP Voz, Dados, SMS, Etc\r\n3 - Pacote de Serviços SMP Voz, Dados, SMS, Etc"
+        ],
+        "cidade": "Belém",
+        "estado": "PA",
+        "numero_habitantes": 1303403,
+        "anexos": [
+            {
+                "nome": "edital_pe_srp_90019_2024.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-edital_pe_srp_90019_2024-ea7f23.pdf",
+                "hash_content": "ff3c725ac9dc4b3f537a063b8451f09c",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-edital_pe_srp_90019_2024-ea7f23.json"
+            },
+            {
+                "nome": "estudo_tecnico_preliminar.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-estudo_tecnico_preliminar-4e9fff.pdf",
+                "hash_content": "b05d55a213cd42e2fb34ed88390e5492",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-estudo_tecnico_preliminar-4e9fff.json"
+            },
+            {
+                "nome": "termo_de_referencia_tic.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-termo_de_referencia_tic-2f2e49.pdf",
+                "hash_content": "6db82cf5e9d75920198762a215d09352",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-termo_de_referencia_tic-2f2e49.json"
+            },
+            {
+                "nome": "anexo_ii_-_modelo_contrato_tic_servicos.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-anexo_ii_-_modelo_contrato_tic_servicos-3e4eaa.docx",
+                "hash_content": "9b96b7a0758627d668f3553f34a45560"
+            },
+            {
+                "nome": "anexo_iii_-_modelo_ata_registro_de_precos_.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-anexo_iii_-_modelo_ata_registro_de_precos_-6fbe2c.docx",
+                "hash_content": "ce8f8bd0755c00f617fd46819e478dd6"
+            },
+            {
+                "nome": "anexo_iv_-_modelo_de_apresentao_da_proposta_de_preos.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-anexo_iv_-_modelo_de_apresentao_da_proposta_de_preos-79e44b.docx",
+                "hash_content": "b9e95bea4fc455cec93e828f98004d68"
+            },
+            {
+                "nome": "relacaoitens16019605900192024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-16019605900192024000-fbb8b9.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-relacaoitens16019605900192024000-7d1ea9.pdf",
+                "hash_content": "88a7a6329a7fd153f190331e9c98f44e",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-eb806912bf14f0bd3fef544c83258d4d-relacaoitens16019605900192024000-7d1ea9.json"
+            }
+        ],
+        "hash_content": "5fcfea621893ef9155a777f9a7a9f7da"
+    }
+}

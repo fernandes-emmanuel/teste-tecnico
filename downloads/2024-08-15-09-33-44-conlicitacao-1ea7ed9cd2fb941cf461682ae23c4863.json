@@ -1,0 +1,48 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "14e7939c3af0fe378488effb3e2448cc",
+        "boletim_id": 109941133,
+        "id_origem": 16876215,
+        "numero_pregao": "PE/90010/2024",
+        "objeto": "* Licitação Eletrônica * - Registro de preços, para eventual e futura contratação de empresa especializada em serviços de confecção de material gráfico, para atender as necessidades da Câmara Municipal de Palmas Paraná * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-08-29",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "Câmara Municipal de Palmas",
+        "orgao_endereco": "Av. Clevelândia, 591",
+        "orgao_codigo": "",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Material\r\n----------------------------------------\r\n1 - ENVELOPE\r\nENVELOPE, MATERIAL KRAFT, MODELO SACO PADRÃO, TAMANHO C X L 185 X 248 MM,COR PARDA, GRAMATURA 90 G/M2\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 500\r\nUnidade de fornecimento: Unidade\r\n----------\r\n2 - ENVELOPE\r\nENVELOPE, MATERIAL SULFITE, MODELO SACO COMUM, TAMANHO C X L 229 X 324 MM,COR BRANCO, GRAMATURA 150 G/M2, ACABAMENTO FACE DE CORTE, DOBRA, VINCO E COLA,CARACTERíSTICAS ADICIONAIS IMPRESSÃO PERSONALIZADA\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 300\r\nUnidade de fornecimento: Unidade\r\n----------\r\n3 - PASTA EVENTOS\r\nPASTA EVENTOS, MATERIAL CARTÃO SUPREMO, ALTURA 34 CM, CARACTERÍSTICASADICIONAIS PERSONALIZADA, CONFORME MODELO, GRAMATURA 300 G/M2, LARGURA 23 CM, QUANTIDADE BOLSOS 2 UN\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 500\r\nUnidade de fornecimento: Unidade\r\n----------\r\n4 - PAPEL CARTA\r\nPAPEL CARTA, MATERIAL PAPEL BRANCO ALCALINO, GRAMATURA 90 G/M2, COMPRIMENTO330 MM, LARGURA 216 MM, CARACTERÍSTICAS ADICIONAIS ALTO RELEVO BRANCO,CONFORME MODELO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 2000\r\nUnidade de fornecimento: Unidade\r\n----------\r\n5 - CARTÃO-CONVITE\r\nCARTÃO-CONVITE, MATERIAL PAPEL COUCHÊ, ALTURA 148 MM, LARGURA 210 MM,GRAMATURA 170 G/M2\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1000\r\nUnidade de fornecimento: Unidade\r\n----------\r\n6 - CERTIFICADO\r\nCERTIFICADO, TIPO CONCLUSÃO DE CURSO, MATERIAL PAPEL COUCHÊ, COR BRANCA,GRAMATURA 150 G/M2, COMPRIMENTO 297 MM, LARGURA 210 MM, TIPO IMPRESSÃO OFSETE,CARACTERÍSTICAS ADICIONAIS CONFORME MODELO DO ÓRGÃO\r\nTratamento Diferenciado: Tipo I - Participação Exclusiva de ME/EPP/Equiparada\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 40\r\nUnidade de fornecimento: Unidade\r\n"
+        ],
+        "cidade": "Palmas",
+        "estado": "PR",
+        "numero_habitantes": 48247,
+        "anexos": [
+            {
+                "nome": "edital_de_pregao_eletronico_n_04.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-93127105900102024000-20a1bb.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-edital_de_pregao_eletronico_n_04-5bdf25.pdf",
+                "hash_content": "7f1fef98e4bc8c0dacc585d3b875ac99",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-edital_de_pregao_eletronico_n_04-5bdf25.json"
+            },
+            {
+                "nome": "relacaoitens93127105900102024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-93127105900102024000-20a1bb.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-relacaoitens93127105900102024000-161731.pdf",
+                "hash_content": "52183060556a9359c53bef51b83d5580",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-14e7939c3af0fe378488effb3e2448cc-relacaoitens93127105900102024000-161731.json"
+            }
+        ],
+        "hash_content": "1ea7ed9cd2fb941cf461682ae23c4863"
+    }
+}

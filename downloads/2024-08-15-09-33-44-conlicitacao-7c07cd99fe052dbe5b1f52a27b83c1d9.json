@@ -1,0 +1,99 @@
+{
+    "type": "editais",
+    "source": "conlicitacao",
+    "channel": "integracao",
+    "data": {
+        "hash_id": "e83c20217fed621eeb0415a90f60fe39",
+        "boletim_id": 109941133,
+        "id_origem": 16876223,
+        "numero_pregao": "PE/90033/2024",
+        "objeto": "* Licitação Eletrônica * - Prestação de serviços de engenharia para execução de aterro, fundação tipo Radier em concreto armado e alvenaria estrutural para receber Estações Telemétricas de medição da qualidade do ar, incluindo as instalações elétricas, de telefonia, aterramento e fechamento com gradil. As instalações serão na cidade de Cubatão, conforme especificações constantes do Termo de Referência Anexo I do Edital. * www.compras.gov.br *",
+        "numero_processo": "",
+        "valor_estimado": 0.0,
+        "data_abertura": "2024-09-02",
+        "data_fechamento_boletim": "2024-08-15 09:33:44",
+        "modalidade": "PE",
+        "orgao": "CETESB-Companhia de Tecnologia de Saneamento Ambiental",
+        "orgao_endereco": "Avenida Professor Frederico Hermann Júnior, 345 - Alto de Pinheiros",
+        "orgao_codigo": "263101-BEC",
+        "orgao_sites": [
+            ""
+        ],
+        "itens": [
+            "----------------------------------------\r\nItens de Serviços\r\n----------------------------------------\r\n1 - Obras Civis de Estruturas de Concreto Armado\r\nObras Civis de Estruturas de Concreto Armado\r\nTratamento Diferenciado: -\r\nAplicabilidade Decreto 7174: Não\r\nAplicabilidade Margem de Preferência: Não\r\nQuantidade: 1\r\nUnidade de fornecimento: UNIDADE\r\n"
+        ],
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero_habitantes": 11451999,
+        "anexos": [
+            {
+                "nome": "arquivo_para_comprasgov-0024-01-01_01_-_cubato_vila_parisi_-_detalhes_do_fechamento_e_aterramento.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-01-01_01_-_cubato_vila_parisi_-_detalhes_do_fechamento_e_aterramento-7f5b53.pdf",
+                "hash_content": "f4b44add7f07dbe107a716f2dd11085d"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-0024-03-01_03_-_cubato_vila_parisi_-__projeto_de_estrutura_do_radier.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-03-01_03_-_cubato_vila_parisi_-__projeto_de_estrutura_do_radier-6534c6.pdf",
+                "hash_content": "f337fb8a6102fcc70a542a38bec32eec"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-0024-03-02_03_-_cubato_vila_parisi_-_projeto_de_estrutura_do_mastro.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-03-02_03_-_cubato_vila_parisi_-_projeto_de_estrutura_do_mastro-0c3c5e.pdf",
+                "hash_content": "9344509f37352f05ebf2a35af135eecc"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-0024-03-03_03_-_cubato_agncia_-_projeto_de_estrutura_do_radier.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-03-03_03_-_cubato_agncia_-_projeto_de_estrutura_do_radier-482937.pdf",
+                "hash_content": "a9ee0635044a177accd27ba89455fa06"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-0024-12-01_02_-_cubato_vila_parisi_-_planta_de_localizao.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-12-01_02_-_cubato_vila_parisi_-_planta_de_localizao-38cbf9.pdf",
+                "hash_content": "8d6aae4db140fbb83c5359988a913ce0",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-12-01_02_-_cubato_vila_parisi_-_planta_de_localizao-38cbf9.json"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-0024-12-02_02_-_cubato_agncia_-_planta_de_localizao.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-12-02_02_-_cubato_agncia_-_planta_de_localizao-c5ed45.pdf",
+                "hash_content": "b6c7bff75cc8b8c7afe0c14780f59bae",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-0024-12-02_02_-_cubato_agncia_-_planta_de_localizao-c5ed45.json"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-edital_16-2024-308_base_telemetrica_cubato.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-edital_16-2024-308_base_telemetrica_cubato-b025b0.pdf",
+                "hash_content": "9cd3fa177c4f7dcca0d3f6dcf8552c27",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-edital_16-2024-308_base_telemetrica_cubato-b025b0.json"
+            },
+            {
+                "nome": "arquivo_para_comprasgov-proposta_para_preenchimento.docx",
+                "formato": "docx",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-arquivo_para_comprasgov-proposta_para_preenchimento-2cdaf5.docx",
+                "hash_content": "6a8c87b3db1fa82e8896dc7eb6dd4822"
+            },
+            {
+                "nome": "relacaoitens26310105900332024000.pdf",
+                "formato": "pdf",
+                "url": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-26310105900332024000-dedc71.zip",
+                "caminho": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-relacaoitens26310105900332024000-53166d.pdf",
+                "hash_content": "f0da82e861d3f126b0df2b820eef79ad",
+                "caminho_json": "s3://bkt-lici-ingestion/raw_zone/licitacao/editais/conlicitacao/2024-08-15/files/2024-08-15-conlicitacao-e83c20217fed621eeb0415a90f60fe39-relacaoitens26310105900332024000-53166d.json"
+            }
+        ],
+        "hash_content": "7c07cd99fe052dbe5b1f52a27b83c1d9"
+    }
+}
