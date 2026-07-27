@@ -1,10 +1,11 @@
 """
 Módulo do Agente LLM para Extração Estruturada (Structured Outputs).
 Suporta OpenAI, SambaNova, Google AI Studio (Gemini), OpenRouter e LLMs locais.
-Inclui o padrão Circuit Breaker para pausar chamadas ao LLM quando a cota/rate limit (429) estoura.
+Inclui o padrão Circuit Breaker para desativar chamadas ao LLM em erros de cota (429) ou autenticação (401/403) com avisos explícitos no console.
 """
 
 import asyncio
+import logging
 import os
 import time
 from typing import List, Optional
@@ -16,10 +17,12 @@ from tenacity import (
     retry,
     retry_if_exception_type,
     stop_after_attempt,
-    wait_exponential,
+    wait_fixed,
 )
 
 from src.models import ItemLicitacao, ExtractedItemsResponse
+
+logger = logging.getLogger("LicitacaoPipeline")
 
 SYSTEM_PROMPT = (
     "Você é um extrator de dados. Analise a tabela em Markdown e os parágrafos "
@@ -31,7 +34,7 @@ SYSTEM_PROMPT = (
 class LLMAgent:
     """
     Agente LLM encarregado de extrair itens de licitação a partir de textos Markdown.
-    Implementa Circuit Breaker para fallback imediato à Camada 2 em caso de 429 persistente.
+    Implementa Circuit Breaker com alertas explícitos no console em caso de 429 ou erro de autenticação (401/403).
     """
 
     def __init__(
@@ -40,7 +43,15 @@ class LLMAgent:
         base_url: Optional[str] = None,
         model: Optional[str] = None
     ) -> None:
-        self.api_key = api_key or os.getenv("API_KEY") or os.getenv("OPENAI_API_KEY")
+        raw_key = api_key or os.getenv("API_KEY") or os.getenv("OPENAI_API_KEY")
+
+        # Se a chave for um placeholder genérico ou vazia, desativa o cliente para evitar requisições desnecessárias
+        if raw_key and any(ph in raw_key.lower() for ph in ("sua_chave", "your_key", "placeholder", "xxx", "dummy")) or (raw_key and len(raw_key.strip()) < 10):
+            self.api_key = None
+            logger.warning("[LLMAgent] ⚠️ Chave de API não configurada ou placeholder ('sua_chave_aqui') detectada. LLM permanecerá DESATIVADO nesta sessão. O pipeline utilizará extração nativa por código (Camada 1) e fallback de segurança (Camada 3).")
+        else:
+            self.api_key = raw_key.strip() if raw_key else None
+
         raw_base_url = base_url or os.getenv("LLM_BASE_URL")
 
         if raw_base_url:
@@ -63,8 +74,10 @@ class LLMAgent:
             self.client = AsyncOpenAI(
                 api_key=self.api_key,
                 base_url=self.base_url,
-                default_headers=default_headers if default_headers else None
+                default_headers=default_headers if default_headers else None,
+                max_retries=1
             )
+            logger.info(f"[LLMAgent] cliente de IA ativado com sucesso para o modelo '{self.model}'.")
         else:
             self.client = None
 
@@ -73,25 +86,22 @@ class LLMAgent:
         self.consecutive_rate_limits: int = 0
 
     @retry(
-        wait=wait_exponential(multiplier=1.5, min=2, max=10),
-        stop=stop_after_attempt(2),
+        wait=wait_fixed(1.0),
+        stop=stop_after_attempt(1),
         retry=retry_if_exception_type((RateLimitError, APIError)),
         reraise=True
     )
     async def extract_items_with_retry(self, markdown_content: str) -> List[ItemLicitacao]:
         """
-        Executa a chamada assíncrona ao LLM.
+        Executa a chamada assíncrona ao LLM com no máximo 1 retentativa rápida em falhas temporárias.
         """
         if not self.client:
-            raise RuntimeError("API_KEY não configurada. Defina a variável de ambiente API_KEY.")
-
-        # Pausa preventiva leve entre requisições
-        await asyncio.sleep(1.0)
+            return []
 
         max_chars = 120000
         truncated_content = markdown_content[:max_chars]
 
-        # 1. Structured Outputs nativos apenas para API oficial da OpenAI
+        # 1. Structured Outputs nativos para API oficial da OpenAI
         if not self.base_url or "api.openai.com" in self.base_url:
             try:
                 completion = await self.client.beta.chat.completions.parse(
@@ -106,8 +116,10 @@ class LLMAgent:
                 response_payload = completion.choices[0].message.parsed
                 if response_payload:
                     return response_payload.itens
-            except Exception:
-                pass
+            except Exception as err:
+                err_msg = str(err)
+                if any(code in err_msg for code in ("401", "403", "invalid_api_key", "Unauthorized", "Forbidden")):
+                    raise err  # Relança para ser tratado pelo Circuit Breaker permanente
 
         # 2. Chamada universal compatível com SambaNova, OpenRouter, Gemini, etc.
         prompt_instruction = (
@@ -142,34 +154,35 @@ class LLMAgent:
     async def extract_items(self, markdown_content: str) -> List[ItemLicitacao]:
         """
         Ponto de entrada seguro para extração de itens.
-        Aciona o Circuit Breaker se detectar erros de cota/rate limit (429) persistentes.
+        Aciona o Circuit Breaker se detectar erros de cota (429) ou autenticação (401/403) exibindo aviso explícito no console.
         """
-        if not markdown_content.strip():
+        if not self.client or not markdown_content.strip():
             return []
 
-        # Se o Circuit Breaker estiver ativo, ignora a API de LLM e vai direto para a Camada 2
+        # Se o Circuit Breaker estiver ativo, ignora a API de LLM e avança imediatamente para a próxima camada
         now = time.time()
         if now < self.circuit_broken_until:
             return []
 
         try:
             results = await self.extract_items_with_retry(markdown_content)
-            # Se teve sucesso, reseta contadores do Circuit Breaker
             self.consecutive_rate_limits = 0
             return results
-        except (NotFoundError, RateLimitError, APIError, Exception) as err:
+        except Exception as err:
             err_msg = str(err)
-            if "429" in err_msg or "rate limit" in err_msg.lower() or "too many requests" in err_msg.lower():
+            if any(code in err_msg for code in ("401", "403", "invalid_api_key", "Unauthorized", "Forbidden")):
+                logger.warning(f"[LLMAgent Circuit Breaker] ⛔ ERRO DE AUTENTICAÇÃO LLM (401/403): Chave de API inválida ou não autorizada. O LLM foi DESATIVADO permanentemente nesta sessão. O pipeline utilizará extração nativa por código e fallback.")
+                self.circuit_broken_until = float("inf")
+            elif "429" in err_msg or "rate limit" in err_msg.lower() or "too many requests" in err_msg.lower():
                 self.consecutive_rate_limits += 1
                 if self.consecutive_rate_limits >= 2:
-                    # Ativa o Circuit Breaker por 60 segundos
                     self.circuit_broken_until = time.time() + 60.0
-                    print(f"[LLMAgent Circuit Breaker] ⚡ Cota/Rate Limit (429) excedido 2x seguidas no provedor. Pausando chamadas ao LLM por 60s e direcionando direto para extração nativa por código (Camada 2).")
+                    logger.warning("[LLMAgent Circuit Breaker] ⚡ RATE LIMIT (429) EXCEDIDO 2x SEGUIDAS: Pausando chamadas ao LLM por 60s e direcionando para extração nativa por código.")
                 else:
-                    print(f"[LLMAgent Warning] Rate limit (429) detectado. Avançando para extração nativa por código (Camada 2)...")
+                    logger.warning("[LLMAgent Warning] Rate limit (429) detectado no LLM. Avançando para fallback nativo...")
             elif "404" in err_msg or "not found" in err_msg.lower():
-                print(f"[LLMAgent Warning] Modelo '{self.model}' não encontrado (404). Desativando LLM nesta sessão.")
-                self.circuit_broken_until = time.time() + 3600.0  # Desativa por 1 hora se modelo não existir
+                logger.warning(f"[LLMAgent Warning] Modelo '{self.model}' não encontrado (404). Desativando LLM nesta sessão.")
+                self.circuit_broken_until = float("inf")
             else:
-                print(f"[LLMAgent Warning] Chamada ao LLM falhou: {err}")
+                logger.warning(f"[LLMAgent Warning] Chamada ao LLM falhou: {err}")
             return []

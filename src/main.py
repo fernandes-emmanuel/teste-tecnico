@@ -1,9 +1,9 @@
 """
 Orquestrador Principal do Pipeline de Extração Híbrida de Licitações.
-Varre downloads/, executa triagem de anexos, aciona o agente LLM e parsers tabulares,
+Varre downloads/, executa triagem de anexos, aciona parsers tabulares nativos e agente LLM de resgate,
 valida com Pydantic e gera os artefatos na pasta output/ (output/resultado.json e output/relatorio_falhas.md).
 Possui suporte a salvamento incremental e retomada de execução (Checkpoint/Resume).
-Arquitetura Otimizada: Código Nativo em Primeiro Lugar ➔ IA de Resgate ➔ Fallback de Segurança.
+Arquitetura Otimizada: Código Nativo Primeiro em TODOS os anexos ➔ LLM Rescuer de Socorro ➔ Fallback em data.itens.
 """
 
 import asyncio
@@ -95,7 +95,10 @@ async def process_single_bidding(
 ) -> LicitacaoProcessada:
     """
     Processa uma única licitação e seus anexos.
-    Arquitetura: Código Nativo em Primeiro Lugar -> Agente LLM de Resgate -> Fallback de Segurança.
+    Arquitetura de Alto Desempenho:
+    1. CAMADA 1: Varre TODOS os anexos com parsers nativos determinísticos por código (Custo Zero, Velocidade Máxima).
+    2. CAMADA 2: Caso NENHUM anexo tenha gerado itens, aciona a IA (LLM Rescuer) para interpretar editais não-estruturados.
+    3. CAMADA 3: Caso a IA falhe ou não tenha chave/API, aciona a rede de segurança (data.itens).
     """
     json_filename = json_path.name
     folder_name = json_path.stem
@@ -117,7 +120,9 @@ async def process_single_bidding(
 
     anexos_processados: List[str] = []
     itens_extraidos: List[ItemLicitacao] = []
+    relevant_filepaths: List[Path] = []
 
+    # --- PASSO 1: CAMADA 1 (Extração Nativa por Código em todos os anexos) ---
     for anexo in anexos_list:
         nome_anexo = anexo.get("nome", "")
         caminho_anexo = anexo.get("caminho")
@@ -132,20 +137,14 @@ async def process_single_bidding(
             if target_filepath.stat().st_size == 0:
                 raise ValueError(f"Arquivo corrompido ou vazio (0 bytes): {target_filepath.name}")
 
-            # CAMADA 1: EXTRAÇÃO NATIVA POR CÓDIGO (Veloz, Determinística & Custo Zero)
+            relevant_filepaths.append(target_filepath)
+            anexos_processados.append(nome_anexo)
+
+            # Extração por código nativo (PDFs)
             if target_filepath.suffix.lower() == ".pdf":
                 pdf_items = parse_pdf_attachment_items(target_filepath)
                 if pdf_items:
                     itens_extraidos.extend(pdf_items)
-
-            # CAMADA 2: AGENTE DE IA (LLM DE RESGATE PARA CASOS COMPLEXOS / SEM TABELA PADRÃO)
-            if not itens_extraidos and llm_agent.client:
-                markdown_content = extract_attachment_to_markdown(target_filepath)
-                extracted_llm = await llm_agent.extract_items(markdown_content)
-                if extracted_llm:
-                    itens_extraidos.extend(extracted_llm)
-
-            anexos_processados.append(nome_anexo)
 
         except Exception as err:
             logger.warning(f"Falha no anexo '{nome_anexo}' de {json_filename}: {err}")
@@ -156,7 +155,19 @@ async def process_single_bidding(
                 report_path=report_path
             )
 
-    # CAMADA 3: REDE DE SEGURANÇA (Fallback no data.itens do JSON original)
+    # --- PASSO 2: CAMADA 2 (Agente LLM de Resgate para casos sem tabela padronizada) ---
+    if not itens_extraidos and llm_agent.client and (time_now := asyncio.get_event_loop().time()) > 0:
+        for filepath in relevant_filepaths:
+            try:
+                markdown_content = extract_attachment_to_markdown(filepath)
+                extracted_llm = await llm_agent.extract_items(markdown_content)
+                if extracted_llm:
+                    itens_extraidos.extend(extracted_llm)
+                    break  # Se a IA já extraiu os itens de um anexo, encerra a busca para esta licitação
+            except Exception as err:
+                logger.warning(f"Falha na camada LLM para {filepath.name}: {err}")
+
+    # --- PASSO 3: CAMADA 3 (Rede de Segurança - data.itens do JSON original) ---
     if not itens_extraidos and raw_itens:
         logger.info(f"Executando fallback para data.itens em {json_filename}")
         itens_extraidos = parse_fallback_itens(raw_itens)
@@ -224,7 +235,6 @@ async def run_pipeline(
     processed_results: List[LicitacaoProcessada] = []
     already_processed_files: Set[str] = set()
 
-    # Carrega estado anterior se resultado.json já existir (Checkpoint/Resume)
     if out_file.exists() and out_file.stat().st_size > 0:
         try:
             with open(out_file, "r", encoding="utf-8") as f:
@@ -256,7 +266,6 @@ async def run_pipeline(
             processed = await process_single_bidding(json_file, llm_agent, downloads_dir, report_path=report_path)
             processed_results.append(processed)
 
-            # Salva de forma incremental após CADA licitação concluída
             save_incremental_results(out_file, processed_results)
             logger.info(f"[{idx}/{len(pending_json_files)}] Salvo incrementalmente em '{out_file}' (Total acumulado: {len(processed_results)})")
 
