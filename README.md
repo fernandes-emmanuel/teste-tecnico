@@ -168,7 +168,7 @@ A arquitetura foi projetada segundo o padrão corporativo **Deterministic-First,
 │   └── test_pipeline.py
 ├── main.py                     # Ponto de entrada raiz
 ├── evaluate.py                 # Script de avaliação de acurácia e validação de schema
-├── Dockerfile                  # Containerização otimizada com fuso horário local (~150 MB)
+├── Dockerfile                  # Containerização otimizada com fuso horário local
 ├── docker-compose.yml          # Mapeamento de volumes e ambiente
 ├── requirements.txt            # Dependências Python
 ├── schema_saida.json           # Schema JSON formal de entrada/saída
