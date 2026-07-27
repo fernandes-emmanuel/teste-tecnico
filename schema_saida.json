@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Extração de Itens de Licitação",
+  "description": "Schema de saída esperado para a extração de itens dos anexos de licitações públicas brasileiras.",
+  "type": "object",
+  "required": ["arquivo_json", "numero_pregao", "orgao", "itens_extraidos"],
+  "properties": {
+    "arquivo_json": {
+      "type": "string",
+      "description": "Nome do arquivo JSON de origem (ex: '2024-08-15-09-33-44-conlicitacao-xxxx.json')."
+    },
+    "numero_pregao": {
+      "type": "string",
+      "description": "Número do pregão eletrônico (ex: 'PE/90007/2024')."
+    },
+    "orgao": {
+      "type": "string",
+      "description": "Nome completo do órgão público responsável pela licitação."
+    },
+    "cidade": {
+      "type": "string",
+      "description": "Município do órgão licitante."
+    },
+    "estado": {
+      "type": "string",
+      "description": "UF do órgão licitante (sigla de 2 caracteres).",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "anexos_processados": {
+      "type": "array",
+      "description": "Lista de nomes dos arquivos de anexo que foram efetivamente processados para extração.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "itens_extraidos": {
+      "type": "array",
+      "description": "Lista de itens extraídos dos anexos da licitação.",
+      "items": {
+        "type": "object",
+        "required": ["item", "objeto", "quantidade"],
+        "properties": {
+          "lote": {
+            "type": ["string", "null"],
+            "description": "Identificador do lote/grupo ao qual o item pertence (ex: 'G1', 'G2'). Null se o item não pertencer a nenhum grupo."
+          },
+          "item": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Número sequencial do item dentro da licitação."
+          },
+          "objeto": {
+            "type": "string",
+            "description": "Descrição completa do item licitado, incluindo categoria e especificações técnicas."
+          },
+          "quantidade": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Quantidade solicitada do item."
+          },
+          "unidade_fornecimento": {
+            "type": "string",
+            "description": "Unidade de fornecimento do item (ex: 'Unidade', 'Caixa 50,00 UN', 'Pacote 500,00 FL')."
+          }
+        }
+      }
+    }
+  }
+}

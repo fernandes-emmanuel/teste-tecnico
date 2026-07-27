@@ -1,0 +1,16 @@
+services:
+  licitacao-extractor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: licitacao_pipeline
+    environment:
+      - API_KEY=${API_KEY:-}
+      - LLM_BASE_URL=${LLM_BASE_URL:-}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gemini-2.0-flash}
+      - RESET_OUTPUT=${RESET_OUTPUT:-}
+      - TZ=America/Sao_Paulo
+    volumes:
+      - ./downloads:/app/downloads
+      - ./output:/app/output
+    command: python main.py
